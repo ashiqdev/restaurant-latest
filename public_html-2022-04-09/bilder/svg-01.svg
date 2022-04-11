@@ -1,0 +1,19 @@
+<svg  id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 463 109">
+
+<style type="text/css">
+    path{fill:url('#MyGradient')}
+</style>
+
+<defs>
+
+<!-- <style>.cls-1{fill:red;stroke:none;stroke-miterlimit:10;}</style> -->
+
+ <linearGradient id="MyGradient">
+        <stop offset="0%" stop-color="#02aab0" ></stop>
+        <stop offset="80%" stop-color="#6ee7b7" ></stop>
+    </linearGradient>
+
+</defs>
+
+
+<title>Only stroke svg</title><path  class="cls-1" d="M338.41,4.05H125.9C84.61,100.44,4.66,98,4.66,98v6h455V98S379.7,100.44,338.41,4.05Z"/></svg>
