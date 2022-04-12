@@ -8,7 +8,7 @@
   ?>
   </head>
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -54,7 +54,7 @@
 				  Fråga oss i personalen så kommer vi till bordet med spelen och självklart kostar det ingenting!<br /><br />
 				  
 				  Hos oss hittar ni bland annat:
-				  <ul style="margin-top:-20px;">
+				  <ul class="minm-20">
 				  
 					<li>Schack</li>
 					<li>Backgammon</li>
@@ -73,7 +73,7 @@
             <div class="col-lg-5">
               <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
                 <img
-                  style="height: auto"
+                  class="hauto"
                   src="/bilder/board.jpg"
                   alt="about"
                 />

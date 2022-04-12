@@ -8,7 +8,7 @@
      ?>
   </head>
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -71,8 +71,8 @@
             <div class="col-lg-5">
               <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
                 <img
-                  style="height: auto"
-                  src="/bilder/game.jpg"
+                  class="hauto"
+                  src="/bilder/gamezone-tinified.jpg"
                   alt="about"
                 />
               </div>

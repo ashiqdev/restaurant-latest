@@ -340,7 +340,7 @@
                 <div class="image-one wid-100">
                   <a href="/gamezone/">
                     <img
-                      src="/bilder/gamezone.jpg"
+                      src="/bilder/gamezone-tinified.jpg"
                       class=""
                       data-wow-delay="0.2s"
                       alt="gamezone"

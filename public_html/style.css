@@ -19,12 +19,12 @@
 @font-face {
   font-family: Cocogoose-Pro-Condensed-Regular;
   src: url(typsnitt/Ttf/Cocogoose-Pro-Condensed-Regular.ttf) format('truetype');
-  font-display: swap;
+  font-display: swap !important;
 }
 @font-face {
   font-family: Cocogoose-Pro-Comp-Light;
   src: url(typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf) format('truetype');
-  font-display: swap;
+  font-display: swap !important;
 }
 .thin {
   font-family: var(--font__light);
@@ -617,6 +617,10 @@ select {
 
 .minm-10 {
   margin-top: -10px;
+}
+
+.minm-20 {
+  margin-top: -20px;
 }
 
 .iccontain {
@@ -4644,10 +4648,7 @@ footer a:hover {
   text-align: center;
 }
 
-.explicit {
-  min-width: 800px;
-  min-height: 450px;
-}
+
 
 .cryspy {
   list-style: none;
@@ -4753,4 +4754,8 @@ footer a:hover {
   margin-bottom: 38px;
   border-bottom: 0;
   padding-bottom: 0;
+}
+
+.hauto {
+  height: auto;
 }

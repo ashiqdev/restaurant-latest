@@ -9,7 +9,7 @@
   </head>
 
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       >
       <!--=========================-->
       <!--=        Navbar         =-->
@@ -58,8 +58,8 @@
                   Boka era platser och ta med vännerna för en spelkväll där ni
                   har hela vårt eventrum för er själva.<br /><br />
                   Bokningsförfrågan går att göra på
-                  <span style="font-weight: bold">031 - 19 19 19 </span>
-                  eller <span style="font-weight: bold;">Info@NordicSportsbar.se </span>
+                  <span class="fbold">031 - 19 19 19 </span>
+                  eller <span class="fbold">Info@NordicSportsbar.se </span>
                 </p>
               </div>
               <!-- /.about-content -->
@@ -69,7 +69,7 @@
             <div class="col-lg-5">
               <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
                 <img
-                  style="height: auto"
+                  class="hauto"
                   src="/bilder/play.jpg"
                   alt="about"
                 />
