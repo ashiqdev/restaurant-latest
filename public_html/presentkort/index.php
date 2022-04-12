@@ -8,7 +8,7 @@
   ?>
   </head>
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant" class="general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -47,16 +47,16 @@
             <div class="col-lg-12">
               <div class="text-center">
 
-			<p class="description wow pixFadeDown" style="line-height: 2; visibility: visible; animation-name: pixFadeDown; font-weight: 300; font-family: var(--font__light); text-align: center; color: rgb(96, 96, 96);">
+			<p class="description wow pixFadeDown presentkort-desc">
 			
 				Presentkort går att beställa eller fylla på direkt på plats och är giltiga två år från aktiveringsdatum.<br />
 				Nedan kan du fylla i ditt presentkortsnummer för att se hur länge ditt kort är giltigt och för att se kortets saldo.
 			</p>
 
                 <div
-                  class="balance-search-form-wrapper wow pixFadeDown"
+                  class="balance-search-form-wrapper wow pixFadeDown pt-80"
                   data-wow-delay="0.7s"
-                  style="padding-top: 80px"
+                  
                 >
                   <form id="checkGiftcard">
                     <div class="balance-form-inner">

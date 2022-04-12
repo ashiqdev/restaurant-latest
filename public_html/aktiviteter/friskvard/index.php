@@ -9,7 +9,7 @@
   ?>
   </head>
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -48,30 +48,33 @@
           <div class="tabs-wrapper">
             <?php require_once("../../../inc/dropdown.php"); ?>
 
-            <div style="padding-top: 4rem">
-              <div class="container" style="padding-left: 0">
+            <div class="pt-4">
+              <div class="container pl-0">
                 <div class="row">
                   <div class="col-lg-8">
-                    <div class="about-content" style="padding-right: 0">
+                    <div class="about-content pr-0">
                       <div
-                        class="sec-image-container wow pixFadeDown"
+                        class="sec-image-container wow pixFadeDown activity-img-wrapper"
                         data-wow-delay="0.2s"
-                        style="background: black; overflow: hidden"
+                        
                       >
                         <img
                           src="/bilder/aktiviteter/epassi.png"
                           alt="Epassi logga"
-                          style="width: 100%; object-fit: cover; opacity: 0.4"
+                          
                         />
 
                         <div class="section-title absoluteText">
-
+                          <h2 class="title wow pixFadeDown">
+                            
+                            Friskvård
+                          </h2>
                         </div>
                       </div>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2; padding-top: 2rem"
+                        class="description wow pixFadeDown lh-2 pt-2"
+                       
                       >
                         Hos oss går det bra att betala er bowling med friskvårdskort och vi tar emot både Actiway och ePassi (OBS: efter 1 Januari så har Actiways tjänster flyttats till ePassi).<br />
 						Skulle du ha någon fråga om hur det fungerar så är det bara att slå en signal på <a href="tel:004631191919">031 - 19 19 19</a> eller mejla på <a href="mailto:Info@NordicSportsbar.se">Info@NordicSportsbar.se</a>.
@@ -80,9 +83,9 @@
 
 
                       <a
-                        style="padding: 5px 25px"
+                        
                         data-wow-delay="0.2s"
-                        class="btn-grad wow pixFadeUp"
+                        class="btn-grad wow pixFadeUp tillBaka"
                         href="/aktiviteter/"
                       >
                         Tillbaka till aktiviteter

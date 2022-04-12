@@ -387,19 +387,19 @@
                 
               >
                 <h3 class="menu-title mini-snacks">MINI SNACKS</h3>
-                <ul style="list-style: none; padding: 0; font-size: 20px">
+                <ul class="cryspy">
                   <li class="mb-2">
                     CRISPY ONION RINGS
-                    <span class="ml-4" style="color: #2d9b87">4 pcs | 29</span>
+                    <span class="ml-4 mcolor">4 pcs | 29</span>
                   </li>
                   <li class="mb-2">
                     JALAPEÑO POPPERS
-                    <span class="ml-4" style="color: #2d9b87">4 pcs | 29</span>
+                    <span class="ml-4 mcolor">4 pcs | 29</span>
                   </li>
 
                   <li>
                     MOZZARELLA STICKS
-                    <span class="ml-4" style="color: #2d9b87">4 pcs | 29</span>
+                    <span class="ml-4 mcolor">4 pcs | 29</span>
                   </li>
                 </ul>
               </div>
@@ -407,9 +407,9 @@
 
             <div class="col-lg-12">
               <p
-                class="text-center wow pixFadeDown thin text-center"
+                class="text-center wow pixFadeDown thin text-center menyHeight"
                 data-wow-delay="0.2s"
-                style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
+                
               >
                 Fråga gärna oss i personalen gällande allergier & justeringar
               </p>
@@ -419,18 +419,9 @@
             <div class="col-lg-12">
               <div class="text-center mt-180">
                 <h3
-                  class="wow pixFadeDown d-inline-block mx-auto"
+                  class="wow pixFadeDown d-inline-block mx-auto burgerHeading"
                   data-wow-delay="0.2s"
-                  style="
-                    font-size: 3rem;
-                    letter-spacing: 5px;
-                    text-align: center;
-                    background: #02aab0;
-                    color: #fff;
-                    padding: 10px 20px;
-                    width: auto;
-                    margin-bottom: 0px;
-                  "
+                  
                 >
                   BURGERS
                 </h3>
@@ -439,18 +430,9 @@
 
             <div class="col-lg-12 text-center mb-5">
               <p
-                class="wow pixFadeDown d-inline-block mx-auto thin"
+                class="wow pixFadeDown d-inline-block mx-auto thin burgerDesc"
                 data-wow-delay="0.2s"
-                style="
-                  font-size: 1.3rem;
-
-                  text-align: center;
-                  padding: 12px 20px;
-                  width: auto;
-                  margin-bottom: 0px;
-                  margin-top: 20px;
-                  background: #d1fae5;
-                "
+                
               >
                 Våra burgare är serverade med krispiga och skalade
                 <br />
@@ -550,12 +532,12 @@
 
             <div class="offset-lg-1 col-lg-5 col-md-6 mobile-align">
               <div
-                class="d-inline-block wow pixFadeDown"
+                class="d-inline-block wow pixFadeDown beefContainer"
                 data-wow-delay="0.4s"
 
-                style="background: #d1fae5; width: 50%; padding: 10px 20px"
+                
               >
-                <div class="menu-img-container mx-auto" style="width: 50%">
+                <div class="menu-img-container mx-auto wid-50">
                   <img src="/bilder/menu/beef.svg" alt="beef" />
                 </div>
 
@@ -629,9 +611,9 @@
 
             <div class="col-lg-12">
               <p
-                class="text-center wow pixFadeDown thin text-center"
+                class="text-center wow pixFadeDown thin text-center menyHeight"
                 data-wow-delay="0.2s"
-                style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
+               
               >
                 Alla burgare kan serveras med glutenfritt och laktosfritt bröd
               </p>
@@ -671,32 +653,26 @@
 
             <div class="offset-lg-1 col-lg-5 col-md-6 text-center mobile-align">
               <div
-                class="menu-card wow pixFadeDown add-out"
+                class="menu-card wow pixFadeDown add-out upgradesWrapper"
                 data-wow-delay="0.2s"
-                style="
-                  background: #d1fae5;
-                  padding: 1rem;
-                  margin-top: 2rem;
-                  border-radius: 0px;
-                  text-align: center;
-                "
+                
               >
                 <h3 class="menu-title">UPGRADES</h3>
-                <ul style="list-style: none; padding: 0; font-size: 20px">
+                <ul class="cryspy">
                   <li class="mb-2">
                     ADD BACON
-                    <span class="ml-4" style="color: #2d9b87">+19</span>
+                    <span class="ml-4 mcolor">+19</span>
                   </li>
                   <li class="mb-2">
                     CHEESE FRIES
-                    <span class="ml-4" style="color: #2d9b87"
+                    <span class="ml-4 mcolor"
                       >+19</span
                     >
                   </li>
 
                   <li class="">
                     SWEET POTATOE FRIES
-                    <span class="ml-1" style="color: #2d9b87"
+                    <span class="ml-1 mcolor" 
                       >+19</span
                     >
                   </li>
@@ -728,9 +704,9 @@
 
             <div class="col-lg-12">
               <p
-                class="text-center wow pixFadeDown thin text-center"
+                class="text-center wow pixFadeDown thin text-center menyHeight"
                 data-wow-delay="0.2s"
-                style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
+                
               >
                 Fråga gärna oss i personalen gällande allergier & justeringar
               </p>
@@ -742,18 +718,9 @@
           <div class="col-lg-12">
             <div class="text-center mt-180">
               <h3
-                class="wow pixFadeDown d-inline-block mx-auto"
+                class="wow pixFadeDown d-inline-block mx-auto burgerHeading"
                 data-wow-delay="0.2s"
-                style="
-                  font-size: 3rem;
-                  letter-spacing: 5px;
-                  text-align: center;
-                  background: #02aab0;
-                  color: #fff;
-                  padding: 10px 20px;
-                  width: auto;
-                  margin-bottom: 0px;
-                "
+                
               >
                 HUVUDRÄTTER
               </h3>
@@ -1051,9 +1018,9 @@
 
           <div class="col-lg-12">
             <p
-              class="text-center wow pixFadeDown thin text-center"
+              class="text-center wow pixFadeDown thin text-center menyHeight"
               data-wow-delay="0.2s"
-              style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
+              
             >
               Fråga gärna oss i personalen gällande allergier & justeringar
             </p>
@@ -1063,23 +1030,14 @@
           <div class="col-lg-12">
             <div class="text-center mt-180">
               <h3
-                class="wow pixFadeDown d-inline-block mx-auto"
+                class="wow pixFadeDown d-inline-block mx-auto burgerHeading" 
                 data-wow-delay="0.2s"
-                style="
-                  font-size: 3rem;
-                  letter-spacing: 5px;
-                  text-align: center;
-                  background: #02aab0;
-                  color: #fff;
-                  padding: 10px 20px;
-                  width: auto;
-                  margin-bottom: 0px;
-                "
+                
               >
                 DESSERTS
               </h3>
 
-              <div class="menu-card" style="margin-top: 2rem">
+              <div class="menu-card martop-2">
                 <h3
                   class="menu-title wow pixFadeDown thin"
                   data-wow-delay="0.2s"
@@ -1096,9 +1054,9 @@
                 </p>
 
                 <p
-                  class="menu-title wow pixFadeDown thin"
+                  class="menu-title wow pixFadeDown thin minm-10"
                   data-wow-delay="0.2s"
-                  style="margin-top: -10px"
+                  
                 >
                   69
                 </p>
@@ -1108,15 +1066,15 @@
                   data-wow-delay="0.2s"
                 >
                   <span
-                    style="margin-top: -20px; font-size: 50px"
-                    class="material-icons"
+                    
+                    class="material-icons iccontain"
                   >
                     star
                   </span>
                 </h3>
               </div>
 
-              <div class="menu-card" style="margin-top: 2rem">
+              <div class="menu-card martop-2">
                 <h3
                   class="menu-title wow pixFadeDown thin"
                   data-wow-delay="0.2s"
@@ -1134,9 +1092,9 @@
                 </p>
 
                 <p
-                  class="menu-title wow pixFadeDown thin"
+                  class="menu-title wow pixFadeDown thin minm-10"
                   data-wow-delay="0.2s"
-                  style="margin-top: -10px"
+                  
                 >
                   109
                 </p>
@@ -1146,15 +1104,15 @@
                   data-wow-delay="0.2s"
                 >
                   <span
-                    style="margin-top: -20px; font-size: 50px"
-                    class="material-icons"
+                    
+                    class="material-icons iccontain"
                   >
                     star
                   </span>
                 </h3>
               </div>
 
-              <div class="menu-card" style="margin-top: 2rem">
+              <div class="menu-card martop-2">
                 <h3
                   class="menu-title wow pixFadeDown thin"
                   data-wow-delay="0.2s"
@@ -1171,9 +1129,9 @@
                 </p>
 
                 <p
-                  class="menu-title wow pixFadeDown thin"
+                  class="menu-title wow pixFadeDown thin minm-10 "
                   data-wow-delay="0.2s"
-                  style="margin-top: -10px"
+                  
                 >
                   89
                 </p>
@@ -1183,15 +1141,15 @@
                   data-wow-delay="0.2s"
                 >
                   <span
-                    style="margin-top: -20px; font-size: 50px"
-                    class="material-icons"
+                    
+                    class="material-icons iccontain"
                   >
                     star
                   </span>
                 </h3>
               </div>
 
-              <div class="menu-card" style="margin-top: 2rem">
+              <div class="menu-card martop-2">
                 <h3
                   class="menu-title wow pixFadeDown thin"
                   data-wow-delay="0.2s"
@@ -1208,9 +1166,9 @@
                 </p>
 
                 <p
-                  class="menu-title wow pixFadeDown thin"
+                  class="menu-title wow pixFadeDown thin minm-10"
                   data-wow-delay="0.2s"
-                  style="margin-top: -10px"
+                  
                 >
                   89
                 </p>
@@ -1220,9 +1178,9 @@
 
           <div class="col-lg-12">
             <p
-              class="text-center wow pixFadeDown thin text-center"
+              class="text-center wow pixFadeDown thin text-center menyHeight"
               data-wow-delay="0.2s"
-              style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
+              
             >
               Fråga gärna oss i personalen gällande allergier & justeringar
             </p>

@@ -9,7 +9,7 @@
   ?>
   </head>
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -48,26 +48,25 @@
           <div class="tabs-wrapper">
             <?php require_once("../../../inc/dropdown.php"); ?>
 
-            <div style="padding-top: 4rem">
-              <div class="container" style="padding-left: 0">
+            <div class="pt-4">
+              <div class="container pl-0">
                 <div class="row">
                   <div class="col-lg-8">
-                    <div class="about-content" style="padding-right: 0">
+                    <div class="about-content pr-0">
                       <div
-                        class="sec-image-container wow pixFadeDown"
+                        class="sec-image-container wow pixFadeDown activity-img-wrapper"
                         data-wow-delay="0.2s"
-                        style="background: black; overflow: hidden"
+                        
                       >
                         <img
                           src="/bilder/nordic.jpg"
-                          alt=""
-                          style="width: 100%; object-fit: cover; opacity: 0.4"
+                          
                         />
 
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            style="font-size: 3.5rem; color: #fff"
+                            
                           >
                             Bowling
                           </h2>
@@ -75,16 +74,16 @@
                       </div>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2; padding-top: 2rem"
+                        class="description wow pixFadeDown lh-2 pt-2"
+                       
                       >
                         Hos oss hittar du 6 moderna bowlingbanor med
                         discobowling och rörliga ljuseffekter.
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                        
                       >
                         Vi har även stöd för rännstaket (bumpers) som
                         automatiskt fälls upp för barnen och ned för er vuxna så
@@ -95,16 +94,16 @@
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                        
                       >
                         Vi rekommenderar max 4 spelare per bana. Mer information
                         samt priser går att hitta nedan, varmt välkomna!
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                        
                       >
                         Skohyra ingår i priset och 1 bowlingtimme hos oss är 58
                         minuter (2 minuter på och av tid).
@@ -113,45 +112,45 @@
                       <h3 class="wow pixFadeDown thin">PRISER</h3>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2; margin-bottom: 5px"
+                        class="description wow pixFadeDown lh-2 marbo-5"
+                        
                       >
                         Söndag - Måndag:
-                        <span style="font-weight: bold; color: #02aab0"
+                        <span class="priser-decor"
                           >200:-/bana/timme</span
                         >
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2; margin-bottom: 5px"
+                        class="description wow pixFadeDown lh-2 marbo-5"
+                        
                       >
                         Tisdag - Torsdag:
-                        <span style="font-weight: bold; color: #02aab0"
+                        <span class="priser-decor"
                           >320:-/bana/timme</span
                         >
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                        
                       >
                         Fredag - Lördag:
-                        <span style="color: #02aab0; font-weight: bold"
+                        <span class="priser-decor"
                           >390:-/bana/timme</span
                         >
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                        
                       >
                         Pokal går att beställa segraren för 99:-.
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                        
                       >
                         Ett bra tips är att komma 10-15 minuter innan er bokade
                         tid så ni hinner knappa in era namn och byta skor innan
@@ -159,17 +158,17 @@
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
+                        class="description wow pixFadeDown lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                        
                       >
                         Hjärtligt välkomna och må bästa spelare vinna!
                       </p>
 
                       <a
-                        style="padding: 5px 25px"
+                        
                         data-wow-delay="0.2s"
-                        class="btn-grad wow pixFadeUp"
+                        class="btn-grad wow pixFadeUp tillBaka"
                         href="/aktiviteter/"
                       >
                         Tillbaka till aktiviteter

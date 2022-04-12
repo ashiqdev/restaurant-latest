@@ -10,7 +10,7 @@
   ?>
   </head>
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -48,29 +48,28 @@
         <div class="container">
           <div class="tabs-wrapper">
 <?php require_once("../../../inc/dropdown.php"); ?>
-            <div style="padding-top: 4rem">
-              <div class="container" style="padding-left: 0">
+            <div class="pt-4">
+              <div class="container pl-0">
                 <div class="row">
                   <div class="col-lg-8">
-                    <div class="about-content" style="padding-right: 0">
+                    <div class="about-content pr-0">
                       <!-- /.section-title -->
 
                       <div
-                        class="sec-image-container wow pixFadeDown"
+                        class="sec-image-container wow pixFadeDown activity-img-wrapper"
                         data-wow-delay="0.2s"
-                        style="background: black; overflow: hidden"
+                        
                       >
                         <img
                           src="/bilder/aktiviteter/barnkalas.png"
-                          alt=""
-                          style="width: 100%; object-fit: cover; opacity: 0.4"
+                          
                         />
 
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
                             data-wow-delay="0.2s"
-                            style="font-size: 3.5rem; color: #fff"
+                            
                           >
                             Barnkalas
                           </h2>
@@ -78,17 +77,17 @@
                       </div>
 
                       <h3
-                        style="padding-top: 2rem"
-                        class="wow pixFadeDown thin"
+                        
+                        class="wow pixFadeDown thin pt-2"
                         data-wow-delay="0.2s"
                       >
                       Ta chansen och ge barnen ett roligt kalas!
                       </h3>
 
                       <p
-                        class="description wow pixFadeDown thin"
+                        class="description wow pixFadeDown thin lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                        
                       >
 						Från 6 år:
 						
@@ -103,9 +102,9 @@
 						</ul>
 						
 						                      <p
-                        class="description wow pixFadeDown thin"
+                        class="description wow pixFadeDown thin lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                       
                       >
 
 						Kalasen går att boka lördagar och söndagar kl. 12.00 - 14.00 för minst 8 personer.
@@ -113,9 +112,9 @@
 </p>
 
 						                      <p
-                        class="description wow pixFadeDown thin"
+                        class="description wow pixFadeDown thin lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                        
                       >
 					  
 						Inbjudningskort finns att hämta och dessa går bra att spara och mejla ut eller skriva ut och dessa finns nu även på engelska:
@@ -130,25 +129,25 @@
 					  </p>
 					  
                       <p
-                        class="description wow pixFadeDown thin"
+                        class="description wow pixFadeDown thin lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                        
                       >
 						Avbokning skall ske minst 2 dagar innan bokat kalas. Om avbokning sker senare debiteras en avgift på 500 kr.
                       </p>
 					  
                       <p
-                        class="description wow pixFadeDown"
+                        class="description wow pixFadeDown lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                        
                       >
                       Varmt välkomna att boka på: 031 - 19 19 19 eller mejl Info@NordicSportsbar.se
                       </p>
 
                       <a
-                        style="padding: 5px 25px"
+                        
                         data-wow-delay="0.2s"
-                        class="btn-grad wow pixFadeUp"
+                        class="btn-grad wow pixFadeUp tillBaka"
                         href="/aktiviteter/"
                       >
                         Tillbaka till aktiviteter

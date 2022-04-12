@@ -10,7 +10,7 @@
   </head>
 
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -49,28 +49,28 @@
           <div class="tabs-wrapper">
 			<?php require_once("../../../inc/dropdown.php"); ?>
 
-            <div style="padding-top: 4rem">
-              <div class="container" style="padding-left: 0">
+            <div class="pt-4">
+              <div class="container pl-0">
                 <div class="row">
                   <div class="col-lg-8">
-                    <div class="about-content" style="padding-right: 0">
+                    <div class="about-content pr-0">
                       <!-- /.section-title -->
 
                       <div
-                        class="sec-image-container wow pixFadeDown"
+                        class="sec-image-container wow pixFadeDown activity-img-wrapper"
                         data-wow-delay="0.2s"
-                        style="background: black; overflow: hidden"
+                        
                       >
                         <img
                           src="/bilder/aktiviteter/nordic.jpg"
-                          alt=""
-                          style="width: 100%; object-fit: cover; opacity: 0.4"
+                        
+                          
                         />
 
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown absoluteTitle"
-                            style="font-size: 2.5rem; color: #fff"
+                            
                           >
                             SHUFFLEBOARD
                           </h2>
@@ -78,8 +78,8 @@
                       </div>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2; padding-top: 2rem"
+                        class="description wow pixFadeDown lh-2 pt-2"
+                        
                       >
                         Vi rekommenderar max 8 personer per bord och vi har 3st
                         Shuffleboards som följer dem officiella reglerna och är
@@ -87,26 +87,26 @@
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                        
                       >
-                        <span style="color: #02aab0; font-weight: bold"
+                        <span class="priser-decor"
                           >Drop-in pris:</span
                         >: 85 kr/timme/person.
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                       
                       >
-                        <span style="color: #02aab0; font-weight: bold"
+                        <span class="priser-decor"
                           >Priser vid bokning</span
                         >: 350kr/timme/bord.
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                        
                       >
                         Bokning går att göra på telefon på 031 - 19 19 19 eller
                         via mejl på
@@ -114,8 +114,8 @@
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                       
                       >
                         Varmt välkomna!
                       </p>
@@ -125,8 +125,8 @@
                       </h3>
 
                       <p
-                        class="description wow pixFadeDown"
-                        style="line-height: 2"
+                        class="description wow pixFadeDown lh-2"
+                       
                       >
                         Varje lags mål är att samla på sig 15 poäng före
                         motståndarlaget.
@@ -177,9 +177,9 @@
                       </ul>
 
                       <a
-                        style="padding: 5px 25px"
+                        
                         data-wow-delay="0.2s"
-                        class="btn-grad wow pixFadeUp"
+                        class="btn-grad wow pixFadeUp tillBaka"
                         href="/aktiviteter/"
                       >
                         Tillbaka till aktiviteter

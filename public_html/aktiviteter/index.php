@@ -8,7 +8,7 @@
   ?>
   </head>
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -38,7 +38,7 @@
       </section>
       <!-- /.page-banner -->
 
-      <section class="activitys" style="overflow-x: hidden">
+      <section class="activitys oxhidden">
         <div class="container">
           <div class="activity-inner">
             <div>
@@ -56,10 +56,11 @@
                       pixsass-activity-item
                       width-large
                       grid-item
+                      cpoint
                       wow pixFadeRight
                       
                     "
-                    style="cursor: pointer"
+                    
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
@@ -84,13 +85,14 @@
                   <div
                     class="
                       pixsass-activity-item
+                      cpoint
                       width-sm-large
                       grid-item
                       wow pixFadeLeft
                       
                       
                     "
-                    style="cursor: pointer"
+                    
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
@@ -117,12 +119,13 @@
                   <div
                     class="
                       pixsass-activity-item
+                      cpoint
                       width2
                       grid-item
                       wow pixFadeRight
                    
                     "
-                    style="cursor: pointer"
+                    
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
@@ -147,11 +150,12 @@
                     class="
                       pixsass-activity-item
                       width3
+                      cpoint
                       grid-item
                       wow pixFadeLeft
                      
                     "
-                    style="cursor: pointer"
+                    
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
@@ -176,10 +180,11 @@
                       pixsass-activity-item
                       width3
                       grid-item
+                      cpoint
                       wow pixFadeLeft
                      
                     "
-                    style="cursor: pointer"
+                    
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
@@ -204,10 +209,11 @@
                       pixsass-activity-item
                       width3
                       grid-item
+                      cpoint
                       wow pixFadeLeft
-                     
+
                     "
-                    style="cursor: pointer"
+                    
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
@@ -233,9 +239,10 @@
                       width3
                       grid-item
                       wow pixFadeLeft
+                      cpoint
                      
                     "
-                    style="cursor: pointer"
+                    
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
@@ -261,9 +268,9 @@
                       width3
                       grid-item
                       wow pixFadeLeft
-                     
+                      cpoint
                     "
-                    style="cursor: pointer"
+                    
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img

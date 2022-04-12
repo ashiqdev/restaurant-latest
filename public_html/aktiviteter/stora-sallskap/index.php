@@ -9,7 +9,7 @@
   ?>
   </head>
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -47,29 +47,28 @@
         <div class="container">
           <div class="tabs-wrapper">
 <?php require_once("../../../inc/dropdown.php"); ?>
-            <div style="padding-top: 4rem">
-              <div class="container" style="padding-left: 0">
+            <div class="pt-4">
+              <div class="container pl-0">
                 <div class="row">
                   <div class="col-lg-8">
-                    <div class="about-content" style="padding-right: 0">
+                    <div class="about-content pr-0">
                       <!-- /.section-title -->
 
                       <div
-                        class="sec-image-container wow pixFadeDown"
+                        class="sec-image-container wow pixFadeDown activity-img-wrapper"
                         data-wow-delay="0.2s"
-                        style="background: black; overflow: hidden"
+                        
                       >
                         <img
                           src="/bilder/aktiviteter/large-parties.jpg"
-                          alt=""
-                          style="width: 100%; object-fit: cover; opacity: 0.4"
+                          
                         />
 
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
                             data-wow-delay="0.2s"
-                            style="font-size: 3.5rem; color: #fff"
+                            
                           >
                             Stora sällskap
                           </h2>
@@ -77,78 +76,78 @@
                       </div>
 
                       <h3
-                        style="padding-top: 2rem"
-                        class="wow pixFadeDown thin"
+                       
+                        class="wow pixFadeDown thin pt-2"
                         data-wow-delay="0.2s"
                       >
                       FÖR ER SOM ÄR MER ÄN 30 PERSONER REKOMMENDERAR VI VÅR CLASSIC BUFFÉ
                       </h3>
 
                       <p
-                        class="description wow pixFadeDown thin"
+                        class="description wow pixFadeDown thin lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                        
                       >
                       Vår klassiska buffé bland annat Burgare, Chicken Wings, Ribs, Snacks, Sallader mm och även en dryckesbiljett (gäller för fatöl, husets viner, cider, non-alco).
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
+                        class="description wow pixFadeDown lh-2 stora-font"
                         data-wow-delay="0.2s"
-                        style="line-height: 2; font-size: 1.1rem"
+                        
                       >
-                        <span style="color: #2d9b87; font-weight: bold"
+                        <span class="mcolor fbold"
                           >Pris från</span
                         >: 299 kr/pers
                       </p>
 
                       <h3
-                        style="padding-top: 0rem"
-                        class="wow pixFadeDown thin"
+                        
+                        class="wow pixFadeDown thin pt-0"
                         data-wow-delay="0.2s"
                       >
                       HAMBURGARBUFFÉ
                       </h3>
 
                       <p
-                        class="description wow pixFadeDown"
+                        class="description wow pixFadeDown lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                        
                       >
                       Vår hamburgarbuffé med caesarsallad, fries, snacks, mm.
 
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
+                        class="description wow pixFadeDown lh-2 stora-font"
                         data-wow-delay="0.2s"
-                        style="line-height: 2; font-size: 1.1rem"
+                        
                       >
-                        <span style="color: #02aab0; font-weight: bold"
+                        <span class="mcolor fbold"
                           >Pris från</span
                         >: 199 kr/pers (minst 20 pers).
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
+                        class="description wow pixFadeDown lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                        
                       >
                       Möjlighet att lägga till bowling eller shuffleboard för 59:- per person.
                       </p>
 
                       <p
-                        class="description wow pixFadeDown"
+                        class="description wow pixFadeDown lh-2"
                         data-wow-delay="0.2s"
-                        style="line-height: 2"
+                        
                       >
                       Varmt välkomna att boka på: 031 - 19 19 19 eller mejl Info@NordicSportsbar.se
                       </p>
 
                       <a
-                        style="padding: 5px 25px"
+                        
                         data-wow-delay="0.2s"
-                        class="btn-grad wow pixFadeUp"
+                        class="btn-grad wow pixFadeUp tillBaka"
                         href="/aktiviteter/"
                       >
                         Tillbaka till aktiviteter

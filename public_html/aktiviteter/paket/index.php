@@ -8,7 +8,7 @@
   ?>
   </head>
   <body>
-    <div class="main_contant" style="overflow-x: hidden; overflow-y: auto">
+    <div class="main_contant general-style">
       <!--=========================-->
       <!--=        Navbar         =-->
       <!--=========================-->
@@ -44,8 +44,8 @@
           <div class="tabs-wrapper">
             <?php require_once("../../../inc/dropdown.php"); ?>
 
-            <div style="padding-top: 4rem">
-              <section class="pricing-single-one" style="padding-top: 10px">
+            <div class="pt-4">
+              <section class="pricing-single-one pt-10">
                 <div class="container">
                   <!-- /.section-title -->
 
@@ -55,11 +55,11 @@
                   >
                     <div class="col-lg-5 mx-auto">
                       <div
-                        class="section-title text-center"
-                        style="margin-bottom: 10px !important;"
+                        class="section-title text-center marbo-10"
+                        
                   
                       >
-                        <h2 class="sub-title wow pixFadeUp" style="margin-bottom: 30px !important;">Paket</h2>
+                        <h2 class="sub-title wow pixFadeUp marbo-30">Paket</h2>
 						
 						<p class="thin">
 						
@@ -202,7 +202,7 @@
                           </div>
                         </div>
 
-                        <ul class="price-feture" style="padding: 0 20px">
+                        <ul class="price-feture have-wrapper">
                           <li class="have">
                             1h bowling eller shuffleboard kan läggas till i
                             buffépaketen för 59:-/person
@@ -239,9 +239,9 @@
           </div>
 
           <a
-            style="padding: 5px 25px"
+           
             data-wow-delay="0.2s"
-            class="btn-grad wow pixFadeUp"
+            class="btn-grad wow pixFadeUp tillBaka"
             href="/aktiviteter/"
           >
             Tillbaka till aktiviteter
