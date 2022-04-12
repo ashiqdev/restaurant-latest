@@ -60,7 +60,7 @@
                         
                       >
                         <img
-                          src="/bilder/aktiviteter/large-parties.jpg"
+                          src="/bilder/aktiviteter/large-parties.webp"
                           
                         />
 

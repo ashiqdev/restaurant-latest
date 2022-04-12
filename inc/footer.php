@@ -32,7 +32,7 @@
 
                 <a href="https://www.google.com/maps?ll=57.678611,12.003327&z=17&t=m&hl=en-US&gl=US&mapclient=embed&cid=14144854708632173907" target="_blank"
                 class="map-wrapper" >
-                  <img src="/bilder/map.png" alt="map">
+                  <img src="/bilder/map.webp" alt="map">
                 </a>
 
 

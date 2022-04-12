@@ -350,7 +350,7 @@
                 <div class="image-one">
                   <a href="/aktiviteter/shuffleboard/">
                     <img
-                      src="/bilder/aktiviteter/shuffleboard.jpg"
+                      src="/bilder/aktiviteter/shuffleboard.webp"
                       class="img-fluid"
                       data-wow-delay="0.2s"
                       alt="shuffleboard"

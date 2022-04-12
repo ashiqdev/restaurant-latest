@@ -62,7 +62,7 @@
                         
                       >
                         <img
-                          src="/bilder/aktiviteter/nordic.jpg"
+                          src="/bilder/aktiviteter/nordic.webp"
                         
                           
                         />

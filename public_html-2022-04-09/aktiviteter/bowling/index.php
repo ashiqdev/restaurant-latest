@@ -3,7 +3,7 @@
   <head>
     <?php
     $headerTitle = "Bowling";
-    $imageURL = "/bilder/aktiviteter/bowlingbanor.jpg";
+    $imageURL = "/bilder/aktiviteter/bowlingbanor.webp";
 	
     require_once("../../../inc/header.php"); 
   ?>
@@ -59,7 +59,7 @@
                         style="background: black; overflow: hidden"
                       >
                         <img
-                          src="/bilder/nordic.jpg"
+                          src="/bilder/nordic.webp"
                           alt=""
                           style="width: 100%; object-fit: cover; opacity: 0.4"
                         />

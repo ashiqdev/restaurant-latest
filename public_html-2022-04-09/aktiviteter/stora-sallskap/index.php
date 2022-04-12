@@ -60,7 +60,7 @@
                         style="background: black; overflow: hidden"
                       >
                         <img
-                          src="/bilder/aktiviteter/large-parties.jpg"
+                          src="/bilder/aktiviteter/large-parties.webp"
                           alt=""
                           style="width: 100%; object-fit: cover; opacity: 0.4"
                         />

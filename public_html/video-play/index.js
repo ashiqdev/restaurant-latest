@@ -116,7 +116,7 @@ async function main() {
                 : game.sport === 'Snooker'
                 ? '/bilder/snoker-updated.svg'
                 : game.sport === 'Basket'
-                ? '/bilder/basket-updated.png'
+                ? '/bilder/basket-updated.webp'
                 : game.sport === 'Tennis'
                 ? '/bilder/tennis.svg'
                 : game.sport === 'Golf'

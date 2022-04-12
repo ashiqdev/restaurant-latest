@@ -3,7 +3,7 @@
   <head>
     <?php
     $headerTitle = "Friskvård";
-    $imageURL = "/bilder/aktiviteter/friskvard.png";
+    $imageURL = "/bilder/aktiviteter/friskvard.webp";
 	
     require_once("../../../inc/header.php"); 
   ?>
@@ -59,7 +59,7 @@
                         
                       >
                         <img
-                          src="/bilder/aktiviteter/epassi.png"
+                          src="/bilder/aktiviteter/epassi.webp"
                           alt="Epassi logga"
                           
                         />

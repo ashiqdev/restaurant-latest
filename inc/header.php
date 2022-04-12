@@ -79,7 +79,7 @@
 />
 <meta
   property="og:image"
-  content="https://nordicsportsbar.se/bilder/nordic.jpg"
+  content="https://nordicsportsbar.se/bilder/nordic.webp"
 />
 
 <!-- Site StyleSheet -->

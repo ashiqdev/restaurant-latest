@@ -72,7 +72,7 @@
               <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
                 <img
                   class="hauto"
-                  src="/bilder/gamezone-tinified.jpg"
+                  src="/bilder/gamezone-tinified.webp"
                   alt="about"
                 />
               </div>

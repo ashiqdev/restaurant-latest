@@ -61,7 +61,7 @@
                         
                       >
                         <img
-                          src="/bilder/aktiviteter/barnkalas.png"
+                          src="/bilder/aktiviteter/barnkalas.webp"
                           
                         />
 

@@ -63,7 +63,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
-                        src="/bilder/aktiviteter/bowlingbanor.jpg"
+                        src="/bilder/aktiviteter/bowlingbanor.webp"
                     
                         alt="bowling-lanes"
                       />
@@ -94,7 +94,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
-                        src="/bilder/aktiviteter/shuffleboard.jpg"
+                        src="/bilder/aktiviteter/shuffleboard.webp"
                         alt="shuffleboard"
                       />
 
@@ -126,7 +126,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
-                        src="/bilder/aktiviteter/matbord.jpg"
+                        src="/bilder/aktiviteter/matbord.webp"
                         alt="paket"
                       />
 
@@ -155,7 +155,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
-                        src="/bilder/aktiviteter/large-parties.jpg"
+                        src="/bilder/aktiviteter/large-parties.webp"
                         alt="activity thumb"
                       />
 
@@ -211,7 +211,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
-                        src="/bilder/aktiviteter/barnkalas.png"
+                        src="/bilder/aktiviteter/barnkalas.webp"
                         alt="activity thumb"
                       />
 

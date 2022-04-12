@@ -4,7 +4,7 @@
     <?php
     $headerTitle = "Dubbla Vingar";
 	$metaDescription = "Varje torsdag dubblar vi vingarna både när ni beställer på plats och på take away.";
-    $imageURL = "/bilder/aktiviteter/wings.jpg";
+    $imageURL = "/bilder/aktiviteter/wings.webp";
     
     require_once("../../../inc/header.php"); 
   ?>
@@ -61,7 +61,7 @@
                         
                       >
                         <img
-                          src="/bilder/aktiviteter/wings.jpg"
+                          src="/bilder/aktiviteter/wings.webp"
                           
                           
                         />

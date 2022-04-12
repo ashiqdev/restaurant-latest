@@ -4,7 +4,7 @@
     <?php
     $headerTitle = "Gokarting Göteborg";
 	$metaDescription = "Våra grannar på andra sidan vägen har en nyöppnad och grym gokartbana som ni är varmt välkomna att prova.";
-    $imageURL = "/bilder/aktiviteter/gokart.png";
+    $imageURL = "/bilder/aktiviteter/gokart.webp";
     
     require_once("../../../inc/header.php"); 
   ?>
@@ -61,7 +61,7 @@
                         
                       >
                         <img
-                          src="/bilder/aktiviteter/gokart.png"
+                          src="/bilder/aktiviteter/gokart.webp"
                          
                         />
 
@@ -114,7 +114,7 @@
                       Karta
                       </h3>
 					  
-					  <img class="pb-20" src="/bilder/gokarting-karta.png" alt="gokarting göteborg vägbeskrivning" />
+					  <img class="pb-20" src="/bilder/gokarting-karta.webp" alt="gokarting göteborg vägbeskrivning" />
 
                       <a
                         

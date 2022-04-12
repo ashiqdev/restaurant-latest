@@ -218,7 +218,7 @@
                 <div class="image-one">
                   <a href="/aktiviteter/bowling/">
                     <img
-                      src="/bilder/bowling-800-450.png"
+                      src="/bilder/bowling-800-450.webp"
                       class="explicit"
                       data-wow-delay="0.2s"
                       alt="bowling-lanes"
@@ -313,7 +313,7 @@
                 <div class="image-one">
                   <a href="/aktiviteter/shuffleboard/">
                     <img
-                      src="/bilder/aktiviteter/shuffleboard.jpg"
+                      src="/bilder/aktiviteter/shuffleboard.webp"
                       class="img-fluid"
                       data-wow-delay="0.2s"
                       alt="shuffleboard"
@@ -340,7 +340,7 @@
                 <div class="image-one wid-100">
                   <a href="/gamezone/">
                     <img
-                      src="/bilder/gamezone-tinified.jpg"
+                      src="/bilder/gamezone-tinified.webp"
                       class=""
                       data-wow-delay="0.2s"
                       alt="gamezone"
@@ -425,7 +425,7 @@
                 <div class="image-one">
                   <a href="/vr/">
                     <img
-                      src="/bilder/virtual-reality.jpg"
+                      src="/bilder/virtual-reality.webp"
                       class="img-fluid"
                       data-wow-delay="0.2s"
                       alt="virtual reality"
@@ -453,7 +453,7 @@
                 <div class="image-one wid-100">
                   <a href="/sallskapsspel/">
                     <img
-                      src="/bilder/board-games.jpg"
+                      src="/bilder/board-games.webp"
                       class=""
                       data-wow-delay="0.2s"
                       alt="board games"

@@ -293,7 +293,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
-                  src="/bilder/menu/buffalo.jpg"
+                  src="/bilder/menu/buffalo.webp"
                   alt="classic-buffalo-wings"
                   class="menu-img"
                 />
@@ -358,7 +358,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
-                  src="/bilder/menu/nachos.jpg"
+                  src="/bilder/menu/nachos.webp"
                   alt="nachos med pulled beef"
                   class="menu-img"
                 />
@@ -658,7 +658,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
-                  src="/bilder/menu/pound-burger.jpg"
+                  src="/bilder/menu/pound-burger.webp"
                   alt="the one pound burger"
                   class="menu-img"
                 />
@@ -673,7 +673,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
-                  src="/bilder/menu/jalapeno.jpg"
+                  src="/bilder/menu/jalapeno.webp"
                   alt="jalapeno & bacon burger"
                   class="menu-img"
                 />
@@ -965,7 +965,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
-                  src="/bilder/menu/pasta.jpg"
+                  src="/bilder/menu/pasta.webp"
                   alt="pasta alfredo"
                   class="menu-img"
                 />
@@ -1043,7 +1043,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
-                  src="/bilder/menu/steak-blue-cheese.jpg"
+                  src="/bilder/menu/steak-blue-cheese.webp"
                   alt="STEAK & BLUE CHEESE"
                   class="menu-img"
                 />
@@ -1056,7 +1056,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
-                  src="/bilder/menu/super-sampler.jpg"
+                  src="/bilder/menu/super-sampler.webp"
                   alt="super sampler"
                   class="menu-img"
                 />

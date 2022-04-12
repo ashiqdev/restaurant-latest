@@ -70,7 +70,7 @@
               <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
                 <img
                   class="hauto"
-                  src="/bilder/play.jpg"
+                  src="/bilder/play.webp"
                   alt="about"
                 />
               </div>

@@ -3,7 +3,7 @@
   <head>
     <?php
     $headerTitle = "Paket";
-    $imageURL = "/bilder/aktiviteter/matbord.jpg";
+    $imageURL = "/bilder/aktiviteter/matbord.webp";
     require_once("../../../inc/header.php"); 
   ?>
   </head>
