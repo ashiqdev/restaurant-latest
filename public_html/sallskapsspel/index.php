@@ -76,6 +76,7 @@
                   class="hauto"
                   src="/bilder/board.jpg"
                   alt="about"
+                  
                 />
               </div>
               <!-- /.about-thumb -->

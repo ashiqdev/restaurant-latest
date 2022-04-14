@@ -109,7 +109,7 @@ info
 
                     <li>
 
-                      <a href="https://www.facebook.com/nordicsportsbar/">
+                      <a href="https://www.facebook.com/nordicsportsbar/" target="_blank">
                         
                       <img src="/bilder/fb.svg" alt="">
                     
@@ -119,7 +119,7 @@ info
 					
 					<li>
 
-                      <a href="https://www.instagram.com/nordicsportsbar/">
+                      <a target="_blank" href="https://www.instagram.com/nordicsportsbar/">
                       <img src="/bilder/insta.svg" alt="">
                     
                     </a>

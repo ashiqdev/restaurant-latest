@@ -15,8 +15,8 @@
 <!-- Dependecy Styles -->
 
 
-
-<link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css?v=<?php echo time(); ?>">
+<!-- 
+<link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css?v=<?php echo time(); ?>"> -->
 
 
 

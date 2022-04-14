@@ -58,8 +58,13 @@
                   Boka era platser och ta med vännerna för en spelkväll där ni
                   har hela vårt eventrum för er själva.<br /><br />
                   Bokningsförfrågan går att göra på
-                  <span class="fbold">031 - 19 19 19 </span>
-                  eller <span class="fbold">Info@NordicSportsbar.se </span>
+
+                  <a class="grayish-color" href="tel:004631191919">
+                    <span class="fbold">031 - 19 19 19 </span>
+                  </a>
+                  eller <a href="mailto:Info@NordicSportsbar.se" class="grayish-color">
+                  <span class="fbold">Info@NordicSportsbar.se </span>
+                  </a>
                 </p>
               </div>
               <!-- /.about-content -->

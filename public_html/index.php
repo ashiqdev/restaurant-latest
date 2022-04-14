@@ -218,6 +218,7 @@
                 <div class="image-one">
                   <a href="/aktiviteter/bowling/">
                     <img
+					 
                       src="/bilder/bowling-800-450.webp"
                       class="explicit"
                       data-wow-delay="0.2s"
