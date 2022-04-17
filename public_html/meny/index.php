@@ -284,6 +284,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
+                 
                   src="/bilder/menu/buffalo.webp"
                   alt="classic-buffalo-wings"
                   class="menu-img"

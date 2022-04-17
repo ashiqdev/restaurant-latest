@@ -68,13 +68,17 @@
            <span class="thin">412 63 Göteborg</span>
          </div>
          <div class="f_size_22">
-           <i class="fas fa-phone-alt"></i>
-           <span class="thin">031 - 19 19 19</span>
+           <a href="tel:004631191919" style="color:#e5e7eb;">
+			   <i class="fas fa-phone-alt"></i>
+			   <span class="thin">031 - 19 19 19</span>
+		   </a>
          </div>
   
          <div class="f_size_22">
-           <i class="fas fa-inbox"></i>
-           <span class="thin">Info@NordicSportsbar.se</span>
+           <a href="mailto:Info@NordicSportsbar.se" style="color:#e5e7eb;">
+			<i class="fas fa-inbox"></i>
+			<span class="thin">Info@NordicSportsbar.se</span>
+		   </a>
          </div>
         </div>       
       
@@ -218,7 +222,7 @@
                 <div class="image-one">
                   <a href="/aktiviteter/bowling/">
                     <img
-					 
+					            width="1600" height="900"
                       src="/bilder/bowling-800-450.webp"
                       class="explicit"
                       data-wow-delay="0.2s"
@@ -314,6 +318,7 @@
                 <div class="image-one">
                   <a href="/aktiviteter/shuffleboard/">
                     <img
+                      width="1600" height="900"
                       src="/bilder/aktiviteter/shuffleboard.webp"
                       class="img-fluid"
                       data-wow-delay="0.2s"
@@ -341,6 +346,7 @@
                 <div class="image-one wid-100">
                   <a href="/gamezone/">
                     <img
+                      width="1600" height="900"
                       src="/bilder/gamezone-tinified.webp"
                       class=""
                       data-wow-delay="0.2s"
@@ -426,6 +432,7 @@
                 <div class="image-one">
                   <a href="/vr/">
                     <img
+                     width="1600" height="900"
                       src="/bilder/virtual-reality.webp"
                       class="img-fluid"
                       data-wow-delay="0.2s"
@@ -454,6 +461,7 @@
                 <div class="image-one wid-100">
                   <a href="/sallskapsspel/">
                     <img
+                      width="1600" height="900"
                       src="/bilder/board-games.webp"
                       class=""
                       data-wow-delay="0.2s"

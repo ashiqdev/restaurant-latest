@@ -54,7 +54,7 @@
 				  Fråga oss i personalen så kommer vi till bordet med spelen och självklart kostar det ingenting!<br /><br />
 				  
 				  Hos oss hittar ni bland annat:
-				  <ul class="minm-20">
+				  <ul class="minm-20 padl-15">
 				  
 					<li>Schack</li>
 					<li>Backgammon</li>
@@ -74,7 +74,7 @@
               <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
                 <img
                   class="hauto"
-                  src="/bilder/board.jpg"
+                  src="/bilder/board.webp"
                   alt="about"
                   
                 />

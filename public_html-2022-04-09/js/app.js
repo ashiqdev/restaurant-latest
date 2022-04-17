@@ -352,7 +352,8 @@ const formatAndDisplayMatches = (mainArray) => {
        <div class="sports-info">
           <div class="company-logo">
           <span class="match"
-            ><img class="sport-picture"   
+            ><img class="sport-picture"
+             width="1600" height="900"   
               alt="sport picture"
               src="${
                 game.sport === "Fotboll"

@@ -32,7 +32,7 @@
 
                 <a href="https://www.google.com/maps?ll=57.678611,12.003327&z=17&t=m&hl=en-US&gl=US&mapclient=embed&cid=14144854708632173907" target="_blank"
                 class="map-wrapper" >
-                  <img src="/bilder/map.webp" alt="map">
+                  <img width="1600" height="900" src="/bilder/map.webp" alt="map">
                 </a>
 
 
@@ -111,7 +111,7 @@ info
 
                       <a href="https://www.facebook.com/nordicsportsbar/" target="_blank">
                         
-                      <img src="/bilder/fb.svg" alt="">
+                      <img  width="1600" height="900" src="/bilder/fb.svg" alt="">
                     
                     </a>
 
@@ -120,7 +120,7 @@ info
 					<li>
 
                       <a target="_blank" href="https://www.instagram.com/nordicsportsbar/">
-                      <img src="/bilder/insta.svg" alt="">
+                      <img  width="1600" height="900" src="/bilder/insta.svg" alt="">
                     
                     </a>
 
@@ -474,13 +474,13 @@ Aktiviteter
 <div id="my-overlay"></div>
 
     <!-- Scripts -->
-    <script src="/plugins/jquery/jquery.min.js"></script>
+    <script src="/plugins/jquery/jquery.min.js" defer></script>
 
-    <script src="/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/plugins/bootstrap/js/bootstrap.min.js" defer></script>
 
-    <script src="/plugins/jquery.appear/jquery.appear.js"></script>
+    <!-- <script src="/plugins/jquery.appear/jquery.appear.js"></script> -->
 
-    <script src="/js/sweetalert2.min.js"></script>
+    <script src="/js/sweetalert2.min.js" defer></script>
     
-    <script src="/js/app.js?v=<?php echo time(); ?>"></script>
+    <script src="/js/app.js?v=<?php echo time(); ?>" defer></script>
   

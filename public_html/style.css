@@ -8917,7 +8917,7 @@ select {
 }
 .balance-search-form-wrapper .balance-form-inner button {
   position: relative;
-  min-width: 5px;
+  min-width: 90px;
   border: 0;
   color: #fff;
   font-size: 18px;
@@ -9397,6 +9397,14 @@ footer a:hover {
   vertical-align: middle;
   font-size: 24px;
 }
+
+
+@media(max-width: 576px) {
+  .meny-title {
+    font-size: 1.9rem !important;
+  }
+}
+
 .meny-title {
   font-size: 3rem;
   letter-spacing: 5px;
@@ -9407,6 +9415,10 @@ footer a:hover {
   width: auto;
   margin-bottom: 0;
 }
+
+
+
+
 .meny-material {
   font-size: 3rem;
   vertical-align: middle;
@@ -9454,6 +9466,16 @@ footer a:hover {
   width: auto;
   margin-bottom: 0;
 }
+
+@media(max-width: 576px) {
+  .burgerHeading {
+  font-size: 1.9rem !important;
+
+  }
+}
+
+
+
 .burgerDesc {
   font-size: 1.3rem;
   text-align: center;

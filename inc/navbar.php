@@ -10,12 +10,14 @@
       <div class="site-mobile-logo">
         <a href="/" class="logo">
           <img
+          width="1600" height="900"
             src="/bilder/logo/logo-grey.png"
             alt="site logo"
             class="main-logo"
           />
 
           <img
+          width="1600" height="900"
             src="/bilder/logo/logo-grey.png"
             alt="site logo"
             class="sticky-logo disnone"
@@ -55,12 +57,14 @@
         <div class="site-logo">
           <a href="/" class="logo">
             <img
+            width="1600" height="900"
               src="/bilder/logo/logo-grey.png"
               alt="site logo"
               class="main-logo"
             />
 
             <img
+            width="1600" height="900"
               src="/bilder/logo/logo-grey.png"
               alt="site logo"
               class="sticky-logo disblock"
