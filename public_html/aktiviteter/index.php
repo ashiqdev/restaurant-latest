@@ -65,6 +65,7 @@
                     <div class="pixsass-isotope-grid__img">
                       <img
                         src="/bilder/aktiviteter/bowlingbanor.webp"
+                        width="1600" height="900"
                     
                         alt="bowlingbanor"
                       />
@@ -96,6 +97,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
+                      width="1600" height="900"
                         src="/bilder/aktiviteter/shuffleboard.webp"
                         alt="shuffleboard"
                       />
@@ -129,6 +131,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
+                      width="1600" height="900"
                         src="/bilder/aktiviteter/matbord.webp"
                         alt="Bord med maträtter"
                       />
@@ -159,6 +162,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
+                      width="1600" height="900"
                         src="/bilder/aktiviteter/large-parties.webp"
                         alt="Glatt sällskap"
                       />
@@ -188,6 +192,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
+                      width="1600" height="900"
                         src="/bilder/aktiviteter/epassi.webp"
                         alt="Epassi logga"
                       />
@@ -217,6 +222,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
+                      width="1600" height="900"
                         src="/bilder/aktiviteter/barnkalas.webp"
                         alt="Glada barn"
                       />
@@ -246,6 +252,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
+                      width="1600" height="900"
                         src="/bilder/aktiviteter/wings.webp"
                         alt="Chicken wings"
                       />
@@ -274,6 +281,7 @@
                   >
                     <div class="pixsass-isotope-grid__img">
                       <img
+                      width="1600" height="900"
                         src="/bilder/aktiviteter/gokart.webp"
                         alt="Gokarting Göteborg logga"
                       />

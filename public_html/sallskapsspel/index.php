@@ -44,17 +44,17 @@
             <div class="col-lg-7">
               <div class="about-content">
                 <div class="section-title">
-                  <h3 class="sub-title wow pixFadeUp">Sällskapsspel</h3>
+                  <h3 class="sub-title wow pixFadeDown">Sällskapsspel</h3>
                 </div>
                 <!-- /.section-title -->
 
-                <p class="description wow pixFadeUp" data-wow-delay="0.2s">
+                <p class="description wow pixFadeDown">
                   Roa er med sällskapsspel när ni är hos oss!
                   <br />
 				  Fråga oss i personalen så kommer vi till bordet med spelen och självklart kostar det ingenting!<br /><br />
 				  
 				  Hos oss hittar ni bland annat:
-				  <ul class="minm-20 padl-15">
+				  <ul class="minm-20 padl-15 wow pixFadeDown">
 				  
 					<li>Schack</li>
 					<li>Backgammon</li>
@@ -75,7 +75,8 @@
                 <img
                   class="hauto"
                   src="/bilder/board.webp"
-                  alt="about"
+                  width="1600" height="900"
+                  alt="sallskapsspel"
                   
                 />
               </div>

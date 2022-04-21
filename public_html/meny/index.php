@@ -284,7 +284,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
-                 
+                 width="1600" height="900"
                   src="/bilder/menu/buffalo.webp"
                   alt="classic-buffalo-wings"
                   class="menu-img"
@@ -350,6 +350,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
+                width="1600" height="900"
                   src="/bilder/menu/nachos.webp"
                   alt="nachos med pulled beef"
                   class="menu-img"
@@ -539,7 +540,7 @@
                 
               >
                 <div class="menu-img-container mx-auto wid-50">
-                  <img src="/bilder/menu/beef.svg" alt="beef" />
+                  <img src="/bilder/menu/beef.svg" width="1600" height="900" alt="beef" />
                 </div>
 
                 <p class="thin mt-1 text-center">100% NÖTKÖTT</p>
@@ -626,6 +627,7 @@
                 data-wow-delay="0.2s"
               >
                 <img
+                width="1600" height="900"
                   src="/bilder/menu/pound-burger.webp"
                   alt="the one pound burger"
                   class="menu-img"
@@ -641,6 +643,8 @@
                 data-wow-delay="0.2s"
               >
                 <img
+                width="1600" height="900"
+                 
                   src="/bilder/menu/jalapeno.webp"
                   alt="jalapeno & bacon burger"
                   class="menu-img"
@@ -918,6 +922,8 @@
                 data-wow-delay="0.2s"
               >
                 <img
+                width="1600" height="900"
+                 
                   src="/bilder/menu/pasta.webp"
                   alt="pasta alfredo"
                   class="menu-img"
@@ -996,6 +1002,8 @@
                 data-wow-delay="0.2s"
               >
                 <img
+                width="1600" height="900"
+                  
                   src="/bilder/menu/steak-blue-cheese.webp"
                   alt="STEAK & BLUE CHEESE"
                   class="menu-img"
@@ -1009,6 +1017,8 @@
                 data-wow-delay="0.2s"
               >
                 <img
+                width="1600" height="900"
+                  
                   src="/bilder/menu/super-sampler.webp"
                   alt="super sampler"
                   class="menu-img"

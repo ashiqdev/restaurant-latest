@@ -43,7 +43,7 @@
       <!--=========================-->
       <section class="about">
         <div class="container">
-          <div class="row">
+          <div class="row ml_15">
             <div class="col-lg-12">
               <div class="text-center">
 
@@ -54,11 +54,11 @@
 			</p>
 
                 <div
-                  class="balance-search-form-wrapper wow pixFadeDown pt-80"
+                  class="wow pixFadeDown pt-5"
                   data-wow-delay="0.7s"
                   
                 >
-                  <form id="checkGiftcard">
+                  <!-- <form id="checkGiftcard">
                     <div class="balance-form-inner">
                       <input
                         type="text"
@@ -67,7 +67,23 @@
                       />
                       <button type="submit">Kontrollera</button>
                     </div>
-                  </form>
+                  </form> -->
+
+                  <div id="wrapper-container">
+                    <div id="dialog">
+                  
+                      <form id="checkGiftcard" name="myForm">
+                        <input inputmode="numeric" class="digit-input fifth-latest" type="text" maxLength="1" size="1" min="0" max="9" pattern="[0-9]{1}" />
+                        <input inputmode="numeric" class="digit-input fourth-latest" type="text" maxLength="1" size="1" min="0" max="9" pattern="[0-9]{1}" />
+                        <input inputmode="numeric" class="digit-input third-latest" type="text" maxLength="1" size="1" min="0" max="9" pattern="[0-9]{1}" />
+                        <input inputmode="numeric" class="digit-input second-latest" type="text" maxLength="1" size="1" min="0" max="9" pattern="[0-9]{1}" />
+                        <input inputmode="numeric" class="digit-input latest" type="text" maxLength="1" size="1" min="0" max="9" pattern="[0-9]{1}" />
+                        <button type="submit" class="awesome-btn">KONTROLLERA</button>
+                      </form>
+                    </div>
+                  </div>
+
+
                 </div>
               </div>
             </div>

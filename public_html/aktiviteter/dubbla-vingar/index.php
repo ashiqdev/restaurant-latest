@@ -62,6 +62,7 @@
                       >
                         <img
                           src="/bilder/aktiviteter/wings.webp"
+                          width="1600" height="900"
                           
                           
                         />

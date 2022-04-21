@@ -76,7 +76,8 @@
                 <img
                   class="hauto"
                   src="/bilder/play.webp"
-                  alt="about"
+                  width="1600" height="900"
+                  alt="vr"
                 />
               </div>
               <!-- /.about-thumb -->

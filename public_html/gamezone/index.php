@@ -73,6 +73,7 @@
                 <img
                   class="hauto"
                   src="/bilder/gamezone-tinified.webp"
+                  width="1600" height="900"
                   alt="about"
                 />
               </div>

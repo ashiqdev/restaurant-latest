@@ -63,7 +63,7 @@
                       >
                         <img
                           src="/bilder/aktiviteter/nordic.webp"
-                        
+                          width="1600" height="900"
                           
                         />
 
@@ -108,9 +108,9 @@
                         class="description wow pixFadeDown lh-2"
                         
                       >
-                        Bokning går att göra på telefon på 031 - 19 19 19 eller
+                        Bokning går att göra på telefon på <a href="tel:004631191919">031 - 19 19 19</a> eller
                         via mejl på
-                        <span><a href="">Info@NordicSportsbar.se</a></span>
+                        <span><a href="mailto:Info@NordicSportsbar.se">Info@NordicSportsbar.se</a></span>
                       </p>
 
                       <p

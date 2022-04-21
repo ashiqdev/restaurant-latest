@@ -60,6 +60,7 @@
                       >
                         <img
                           src="/bilder/nordic.webp"
+                          width="1600" height="900"
                           
                         />
 

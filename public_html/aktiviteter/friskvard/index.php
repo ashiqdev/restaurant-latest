@@ -59,8 +59,9 @@
                         
                       >
                         <img
-                          src="/bilder/aktiviteter/epassi.webp"
-                          alt="Epassi logga"
+                        width="1600" height="900"
+                        src="/bilder/aktiviteter/epassi.webp"
+                        alt="Epassi logga"
                           
                         />
 

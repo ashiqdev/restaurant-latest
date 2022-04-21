@@ -62,6 +62,7 @@
                       >
                         <img
                           src="/bilder/aktiviteter/barnkalas.webp"
+                          width="1600" height="900"
                           
                         />
 
@@ -91,7 +92,7 @@
                       >
 						Från 6 år:
 						
-						<ul>
+						<ul class="barnkalas">
 						
 							<li>Popcorn och läsk</li>
 							<li>Burgare med fries och dressing vid sidan</li>
@@ -119,7 +120,7 @@
 					  
 						Inbjudningskort finns att hämta och dessa går bra att spara och mejla ut eller skriva ut och dessa finns nu även på engelska:
 					  
-						<ul>
+						<ul class="barnkalas">
 							
 							<li><a href="/aktiviteter/barnkalas/inbjudningskort.pdf">Inbjudningskort (svenska)</a></li>
 							<li><a href="/aktiviteter/barnkalas/invitation.pdf">Inbjudningskort (engelska)</a></li>

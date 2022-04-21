@@ -1995,6 +1995,10 @@ button.bg-dark:hover {
 .m-1 {
   margin: 0.25rem !important;
 }
+
+.ml_15 {
+  margin-left: -15px !important;
+}
 .mt-1,
 .my-1 {
   margin-top: 0.25rem !important;
@@ -2119,10 +2123,7 @@ button.bg-dark:hover {
 
 .padl-15 {
   padding-left: 15px !important;
-
 }
-
-
 
 .p-2 {
   padding: 0.5rem !important;
@@ -5960,7 +5961,9 @@ a.text-dark:hover {
   --color__theme: #02aab0;
   --color__primary: #02aab0;
   --color-secondary: #00cdac;
-  --color__body: #797650;
+  /* --color__body: #797650; */
+  --color__body: #606060;
+
   --background__bg: #fdf8f8;
   --background__2: #f8f7fc;
   --neon-text-color: #f40;
@@ -5976,13 +5979,13 @@ a.text-dark:hover {
 }
 @font-face {
   font-family: Cocogoose-Pro-Condensed-Regular;
-  src: url(https://nordic.dnscheck.io/typsnitt/Ttf/Cocogoose-Pro-Condensed-Regular.ttf)
+  src: url(typsnitt/Ttf/Cocogoose-Pro-Condensed-Regular.ttf)
     format('truetype');
   font-display: swap !important;
 }
 @font-face {
   font-family: Cocogoose-Pro-Comp-Light;
-  src: url(https://nordic.dnscheck.io/typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf)
+  src: url(typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf)
     format('truetype');
   font-display: swap !important;
 }
@@ -6176,6 +6179,8 @@ section {
   color: #fff;
   font-weight: 500;
 }
+
+
 .pix-btn i {
   font-size: 20px;
   margin-left: 3px;
@@ -6188,7 +6193,7 @@ section {
 }
 .pix-btn:focus,
 .pix-btn:hover {
-  color: #fff;
+ 
   box-shadow: none;
   outline: 0;
 }
@@ -6482,7 +6487,9 @@ select {
   margin-top: 40px;
 }
 .about_btn {
-  font: 500 14px Poppins, sans-serif;
+  font-weight: 500px;
+  font-size: 14px;
+  font-family: var(--font__light);
   padding: 17px 28px;
   background: #fbfbfd;
   -webkit-box-shadow: 0 20px 30px 0 rgba(12, 0, 46, 0.1);
@@ -8047,7 +8054,7 @@ hr.noborder {
 }
 @media (max-width: 600px) {
   .row {
-    margin-left: 0 !important;
+    margin-left: 0;
   }
   .offset-1 {
     margin-left: 0 !important;
@@ -8200,6 +8207,7 @@ hr.noborder {
 }
 .shuffle-list li {
   margin-bottom: 1rem;
+  list-style: inside;
 }
 .pricing {
   padding: 116px 0 120px;
@@ -9213,7 +9221,7 @@ footer {
   font-size: 1em;
   text-transform: uppercase;
   padding: 10px;
-  font-family: Lato, sans-serif;
+  font-family: var(--font__light);
   text-align: left;
 }
 footer p {
@@ -9398,8 +9406,7 @@ footer a:hover {
   font-size: 24px;
 }
 
-
-@media(max-width: 576px) {
+@media (max-width: 576px) {
   .meny-title {
     font-size: 1.9rem !important;
   }
@@ -9415,9 +9422,6 @@ footer a:hover {
   width: auto;
   margin-bottom: 0;
 }
-
-
-
 
 .meny-material {
   font-size: 3rem;
@@ -9467,14 +9471,11 @@ footer a:hover {
   margin-bottom: 0;
 }
 
-@media(max-width: 576px) {
+@media (max-width: 576px) {
   .burgerHeading {
-  font-size: 1.9rem !important;
-
+    font-size: 1.9rem !important;
   }
 }
-
-
 
 .burgerDesc {
   font-size: 1.3rem;
@@ -9545,65 +9546,13 @@ footer a:hover {
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/materialicons/v126/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf)
-    format('truetype');
+  src: url(typsnitt/Ttf/material.ttf) format('truetype');
+  font-display: swap !important;
+
 }
-@font-face {
-  font-family: Poppins;
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8V1s.ttf)
-    format('truetype');
-}
-@font-face {
-  font-family: Poppins;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrFJA.ttf)
-    format('truetype');
-}
-@font-face {
-  font-family: Poppins;
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9V1s.ttf)
-    format('truetype');
-}
-@font-face {
-  font-family: Poppins;
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7V1s.ttf)
-    format('truetype');
-}
-@font-face {
-  font-family: Poppins;
-  font-style: normal;
-  font-weight: 800;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDD4V1s.ttf)
-    format('truetype');
-}
-@font-face {
-  font-family: Poppins;
-  font-style: normal;
-  font-weight: 900;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLBT5V1s.ttf)
-    format('truetype');
-}
-@font-face {
-  font-family: Satisfy;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/satisfy/v11/rP2Hp2yn6lkG50LoOZQ.ttf)
-    format('truetype');
-}
+
+
+
 .material-icons {
   font-family: 'Material Icons';
   font-weight: 400;
@@ -10372,9 +10321,76 @@ site-header .header-inner .site-nav .menu-wrapper:before {
 }
 
 .grayish-color {
-    color: #606060;
+  color: #606060;
 }
 
 .grayish-color:hover {
-    color: #535353;
+  color: #535353;
+}
+
+/* presentkort */
+#wrapper-container {
+  font-family: var(--font__light);
+  font-size: 1.5rem;
+  text-align: center;
+  box-sizing: border-box;
+  color: #333;
+}
+#wrapper-container #dialog {
+  /* border: solid 1px #ccc; */
+  margin: 10px auto;
+  padding: 20px 30px;
+  display: inline-block;
+  box-shadow: 0 0 4px #ccc;
+  background-color: #faf8f8;
+  overflow: hidden;
+  position: relative;
+  min-width: 350px;
+  background: #ffffff;
+  box-shadow:  20px 20px 60px #d9d9d9,
+  -20px -20px 60px #ffffff;
+  border-radius: 5px;
+}
+#wrapper-container #dialog #checkGiftcard {
+  max-width: 375px;
+  margin: 25px auto 0;
+}
+#wrapper-container #dialog #checkGiftcard .digit-input {
+  margin: 0 5px;
+  text-align: center;
+  line-height: 80px;
+  font-size: 50px;
+  border: solid 1px #ccc;
+  box-shadow: 0 0 5px #ccc inset;
+  outline: none;
+  width: 15%;
+  transition: all 0.2s ease-in-out;
+  border-radius: 3px;
+  padding: 10px 0px !important;
+}
+
+@media (max-width: 405px) {
+  #wrapper-container #dialog #checkGiftcard .digit-input {
+    width: 14%;
+  }
+}
+
+#wrapper-container #dialog #checkGiftcard .digit-input:focus {
+  border-color: #02aab0;
+  box-shadow: 0 0 5px #02aab0 inset;
+}
+#wrapper-container #dialog #checkGiftcard .digit-input::selection {
+  background: transparent;
+}
+#wrapper-container #dialog #checkGiftcard .awesome-btn {
+  margin: 30px 0 15px;
+  width: 100%;
+  padding: 6px;
+  background-color: #b85fc6;
+  border: none;
+  text-transform: uppercase;
+}
+
+.barnkalas li {
+  list-style: inside;
 }

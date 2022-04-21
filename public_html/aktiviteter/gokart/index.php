@@ -114,7 +114,7 @@
                       Karta
                       </h3>
 					  
-					  <img class="pb-20" src="/bilder/gokarting-karta.webp" alt="gokarting göteborg vägbeskrivning" />
+					  <img class="pb-20" src="/bilder/gokarting-karta.webp"  width="1600" height="900" alt="gokarting göteborg vägbeskrivning" />
 
                       <a
                         
