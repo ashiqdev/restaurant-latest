@@ -54,7 +54,7 @@
 				  Fråga oss i personalen så kommer vi till bordet med spelen och självklart kostar det ingenting!<br /><br />
 				  
 				  Hos oss hittar ni bland annat:
-				  <ul class="minm-20 padl-15 wow pixFadeDown">
+				  <ul class="minm-20 wow pixFadeDown gamezone-list">
 				  
 					<li>Schack</li>
 					<li>Backgammon</li>

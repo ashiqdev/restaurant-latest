@@ -101,9 +101,9 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">5 wings 99</div>
-                  <div class="menu-information">10 wings 149</div>
-                  <div class="menu-information">15 wings 179</div>
+                  <div class="menu-information"><span>5 wings 99</span></div>
+                  <div class="menu-information"><span>10 wings 149</span></div>
+                  <div class="menu-information"><span>15 wings 179</span></div>
                 </div>
               </div>
             </div>
@@ -125,9 +125,9 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">5 wings 99</div>
-                  <div class="menu-information">10 wings 149</div>
-                  <div class="menu-information">15 wings 179</div>
+                  <div class="menu-information"><span>5 wings 99</span></div>
+                  <div class="menu-information"><span>10 wings 149</span></div>
+                  <div class="menu-information"><span>15 wings 179</span></div>
                 </div>
               </div>
             </div>
@@ -154,9 +154,9 @@
                       class="menu-info-container wow pixFadeDown"
                       data-wow-delay="0.2s"
                     >
-                      <div class="menu-information">5 wings 99</div>
-                      <div class="menu-information">10 wings 149</div>
-                      <div class="menu-information">15 wings 179</div>
+                      <div class="menu-information"><span>5 wings 99</span></div>
+                      <div class="menu-information"><span>10 wings 149</span></div>
+                      <div class="menu-information"><span>15 wings 179</span></div>
                     </div>
                   </div>
                 </div>
@@ -200,7 +200,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">79</div>
+                  <div class="menu-information"><span>79</span></div>
                 </div>
               </div>
             </div>
@@ -222,9 +222,9 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">LITEN 79</div>
-                  <div class="menu-information">MELLAN 139</div>
-                  <div class="menu-information">STOR 179</div>
+                  <div class="menu-information"><span>LITEN 79</span></div>
+                  <div class="menu-information"><span>MELLAN 139</span></div>
+                  <div class="menu-information"><span>STOR 179</span></div>
                 </div>
               </div>
             </div>
@@ -247,8 +247,8 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">FOUR SLICES 39</div>
-                  <div class="menu-information">EIGHT SLICES 69</div>
+                  <div class="menu-information"><span>FOUR SLICES 39</span></div>
+                  <div class="menu-information"><span>EIGHT SLICES 69</span></div>
                 </div>
               </div>
             </div>
@@ -272,8 +272,8 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">DOUBLE TACO 129</div>
-                  <div class="menu-information">TRIPLE TACO 149</div>
+                  <div class="menu-information"><span>DOUBLE TACO 129</span></div>
+                  <div class="menu-information"><span>TRIPLE TACO 149</span></div>
                 </div>
               </div>
             </div>
@@ -285,7 +285,7 @@
               >
                 <img
                  width="1600" height="900"
-                  src="/bilder/menu/buffalo.webp"
+                  src="/bilder/menu/buffalo_optimized.webp"
                   alt="classic-buffalo-wings"
                   class="menu-img"
                 />
@@ -312,10 +312,10 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">ENKEL 69 </div>
-                  <div class="menu-information">MED OST 89</div>
+                  <div class="menu-information"><span>ENKEL 69</span></div>
+                  <div class="menu-information"><span>MED OST 89</span></div>
                   <div class="menu-information">
-                    MED OST OCH &amp; PULLED BEEF 109
+                    <span>MED OST OCH &amp; PULLED BEEF 109</span>
                   </div>
                 </div>
               </div>
@@ -339,7 +339,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">139</div>
+                  <div class="menu-information"><span>139</span></div>
                 </div>
               </div>
             </div>
@@ -351,7 +351,7 @@
               >
                 <img
                 width="1600" height="900"
-                  src="/bilder/menu/nachos.webp"
+                  src="/bilder/menu/nachos_optimized.webp"
                   alt="nachos med pulled beef"
                   class="menu-img"
                 />
@@ -379,7 +379,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">139</div>
+                  <div class="menu-information"><span>139</span></div>
                 </div>
               </div>
 
@@ -462,7 +462,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">165</div>
+                  <div class="menu-information"><span>165</span></div>
                 </div>
               </div>
 
@@ -484,7 +484,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">175</div>
+                  <div class="menu-information"><span>175</span></div>
                 </div>
               </div>
 
@@ -506,7 +506,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">225</div>
+                  <div class="menu-information"><span>225</span></div>
                 </div>
               </div>
 
@@ -527,7 +527,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">165</div>
+                  <div class="menu-information"><span>165</span></div>
                 </div>
               </div>
             </div>
@@ -563,7 +563,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">175</div>
+                  <div class="menu-information"><span>175</span></div>
                 </div>
               </div>
 
@@ -584,7 +584,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">175</div>
+                  <div class="menu-information"><span>175</span></div>
                 </div>
               </div>
 
@@ -604,9 +604,9 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">MILD 165 </div>
-                  <div class="menu-information">STARK 165 </div>
-                  <div class="menu-information">HALLOUMI 165</div>
+                  <div class="menu-information"><span>MILD 165 </span> </div>
+                  <div class="menu-information"><span>STARK 165 </span></div>
+                  <div class="menu-information"><span>HALLOUMI 165</span></div>
                 </div>
               </div>
             </div>
@@ -628,7 +628,7 @@
               >
                 <img
                 width="1600" height="900"
-                  src="/bilder/menu/pound-burger.webp"
+                  src="/bilder/menu/pound-burger_optimized.webp"
                   alt="the one pound burger"
                   class="menu-img"
                 />
@@ -645,7 +645,7 @@
                 <img
                 width="1600" height="900"
                  
-                  src="/bilder/menu/jalapeno.webp"
+                  src="/bilder/menu/jalapeno_optimized.webp"
                   alt="jalapeno & bacon burger"
                   class="menu-img"
                 />
@@ -752,8 +752,8 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">OXFILÉ (200g) 299</div>
-                  <div class="menu-information">ENTRECÔTE (220g) 279</div>
+                  <div class="menu-information"><span>OXFILÉ (200g) 299</span></div>
+                  <div class="menu-information"><span>ENTRECÔTE (220g) 279</span></div>
                 </div>
               </div>
 
@@ -775,7 +775,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">OXFILÉ (200g) 299</div>
+                  <div class="menu-information"><span>OXFILÉ (200g) 299</span></div>
                 </div>
               </div>
 
@@ -796,8 +796,8 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">BBQ SAUCE 209 </div>
-                  <div class="menu-information">BUFFALO SAUCE 209</div>
+                  <div class="menu-information"><span>BBQ SAUCE 209 </span> </div>
+                  <div class="menu-information"><span>BUFFALO SAUCE 209</span></div>
                 </div>
               </div>
 
@@ -818,7 +818,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">249</div>
+                  <div class="menu-information"><span>249</span></div>
                 </div>
               </div>
 
@@ -842,8 +842,8 @@
                   <div class="menu-information text-uppercase">
                     GRILLAD KYCKLING OCH BACON
                   </div>
-                  <div class="menu-information">LAX 195 </div>
-                  <div class="menu-information">OUMPH 175</div>
+                  <div class="menu-information"><span>LAX 195 </span> </div>
+                  <div class="menu-information"><span>OUMPH 175</span></div>
                 </div>
               </div>
 
@@ -864,7 +864,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">179</div>
+                  <div class="menu-information"><span>179</span></div>
                 </div>
               </div>
 			  
@@ -885,7 +885,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">175</div>
+                  <div class="menu-information"><span>175</span></div>
                 </div>
               </div>
 			  
@@ -910,10 +910,10 @@
                   data-wow-delay="0.2s"
                 >
                   <div class="menu-information text-uppercase">
-                    Kyckling 209 
+                    <span>Kyckling 209 </span>
                   </div>
-                  <div class="menu-information text-uppercase">Lax 219 </div>
-                  <div class="menu-information text-uppercase">Oxfilé 229</div>
+                  <div class="menu-information text-uppercase"><span>Lax 219</span> </div>
+                  <div class="menu-information text-uppercase"><span>Oxfilé 229</span></div>
                 </div>
               </div>
 
@@ -924,7 +924,7 @@
                 <img
                 width="1600" height="900"
                  
-                  src="/bilder/menu/pasta.webp"
+                  src="/bilder/menu/pasta_optimized.webp"
                   alt="pasta alfredo"
                   class="menu-img"
                 />
@@ -948,7 +948,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">249</div>
+                  <div class="menu-information"><span>249</span></div>
                 </div>
               </div>
 
@@ -969,7 +969,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">219</div>
+                  <div class="menu-information"><span>219</span></div>
                 </div>
               </div>
 
@@ -989,7 +989,7 @@
                   class="menu-info-container wow pixFadeDown"
                   data-wow-delay="0.2s"
                 >
-                  <div class="menu-information">175</div>
+                  <div class="menu-information"><span>175</span></div>
                 </div>
               </div>
             </div>
@@ -1004,7 +1004,7 @@
                 <img
                 width="1600" height="900"
                   
-                  src="/bilder/menu/steak-blue-cheese.webp"
+                  src="/bilder/menu/steak-blue-cheese_optimized.webp"
                   alt="STEAK & BLUE CHEESE"
                   class="menu-img"
                 />
@@ -1019,7 +1019,7 @@
                 <img
                 width="1600" height="900"
                   
-                  src="/bilder/menu/super-sampler.webp"
+                  src="/bilder/menu/super-sampler_optimized.webp"
                   alt="super sampler"
                   class="menu-img"
                 />

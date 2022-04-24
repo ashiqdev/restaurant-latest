@@ -52,7 +52,7 @@
 				  När du är hos oss kan du närsomhelst hoppa över till spelavdelningen där du hittar bland annat:
                 </p>
 
-                <ul class="wow pixFadeUp padl-15" data-wow-delay="0.2s">
+                <ul class="wow pixFadeUp gamezone-list" data-wow-delay="0.2s">
                   <li>Basket</li>
                   <li>Airhockey</li>
                   <li>Boxboll</li>

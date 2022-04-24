@@ -122,8 +122,8 @@
 					  
 						<ul class="barnkalas">
 							
-							<li><a href="/aktiviteter/barnkalas/inbjudningskort.pdf">Inbjudningskort (svenska)</a></li>
-							<li><a href="/aktiviteter/barnkalas/invitation.pdf">Inbjudningskort (engelska)</a></li>
+							<li><a href="/aktiviteter/barnkalas/inbjudningskort.pdf" target="_blank">Inbjudningskort (svenska)</a></li>
+							<li><a href="/aktiviteter/barnkalas/invitation.pdf" target="_blank">Inbjudningskort (engelska)</a></li>
 							
 						</ul>
 					  

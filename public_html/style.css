@@ -26,7 +26,7 @@
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif,
+   'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif,
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
     'Liberation Mono', 'Courier New', monospace;
@@ -35,6 +35,7 @@
 ::after,
 ::before {
   box-sizing: border-box;
+  font-display: swap;
 }
 html {
   font-family: sans-serif;
@@ -52,7 +53,7 @@ section {
 }
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
     'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif,
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1rem;
@@ -5977,18 +5978,18 @@ a.text-dark:hover {
   --font__heading: 'Cocogoose-Pro-Condensed-Regular', sans-serif;
   --font__light: 'Cocogoose-Pro-Comp-Light', sans-serif;
 }
-@font-face {
+/* @font-face {
   font-family: Cocogoose-Pro-Condensed-Regular;
-  src: url(typsnitt/Ttf/Cocogoose-Pro-Condensed-Regular.ttf)
+  src:local('Helvetica Neue'), url(typsnitt/Ttf/Cocogoose-Pro-Condensed-Regular.ttf)
     format('truetype');
   font-display: swap !important;
 }
 @font-face {
   font-family: Cocogoose-Pro-Comp-Light;
-  src: url(typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf)
+  src: local('Helvetica Neue'), url(typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf)
     format('truetype');
   font-display: swap !important;
-}
+} */
 .thin {
   font-family: var(--font__light);
 }
@@ -8060,9 +8061,9 @@ hr.noborder {
     margin-left: 0 !important;
   }
   .col-lg-5 {
-    margin-left: 0 !important;
+    /* margin-left: 0 !important;
     margin-right: 0 !important;
-    padding: 0 !important;
+    padding: 0 !important; */
   }
   .menu-img-container {
     margin-left: 12px;
@@ -8206,9 +8207,36 @@ hr.noborder {
   margin-bottom: 3rem;
 }
 .shuffle-list li {
+  position: relative;
   margin-bottom: 1rem;
-  list-style: inside;
+  list-style: none;
 }
+
+
+.gamezone-list li{
+  position: relative;
+  /* margin-bottom: 1rem; */
+  list-style: none;
+
+
+}
+
+.gamezone-list li:before {
+  font-family: 'Material Icons';
+  content: 'workspace_premium';
+  color: #1acb44;
+  margin-right: 5px;
+}
+
+
+
+
+.shuffle-list li:before {
+  font-family: 'Material Icons';
+  content: 'star';
+  color: #1acb44;
+}
+
 .pricing {
   padding: 116px 0 120px;
 }
@@ -8271,6 +8299,17 @@ hr.noborder {
   margin-bottom: 12px;
   color: #797687;
 }
+
+@media(max-width: 576px) {
+  .pricing-table .price-feture li {
+    padding-left: 33px;
+    position: relative;
+    margin-bottom: 12px;
+    color: #797687;
+    margin-left: 10px;
+  }
+}
+
 .pricing-table .price-feture li:before {
   position: absolute;
   left: 0;
@@ -8586,6 +8625,12 @@ select {
 .menu-information {
   font-family: var(--font__light);
 }
+
+.menu-information span {
+  border-bottom: 2px dotted #02c2c9;
+  padding-bottom: 5px;
+}
+
 .box {
   padding: 0 8px 0 8px !important;
 }
@@ -8954,6 +8999,13 @@ select {
   max-height: 100vh;
   overflow: hidden;
 }
+
+@media(max-width: 1600px) {
+  
+}
+
+
+
 .bg-video {
   position: absolute;
   top: 0;
@@ -8962,6 +9014,7 @@ select {
   width: 100%;
   object-fit: cover;
   overflow: hidden;
+  transform: scale(1.2);
 }
 @media (max-width: 1096px) {
   .video-container {
@@ -9235,16 +9288,19 @@ footer a {
 footer a:hover {
   color: #ffc39e;
 }
-@media (min-width: 1530px) {
-  .bg-video {
-    transform: scale(1.2);
-  }
-}
+
 @media (min-width: 1840px) {
   .bg-video {
-    transform: scale(1.3);
+    transform: scale(1.3) !important;
   }
 }
+
+@media (min-width: 1330px) {
+  .bg-video {
+    transform: scale(1.2) !important;
+  }
+}
+
 .map-wrapper {
   display: inline-block;
 }
@@ -9541,15 +9597,14 @@ footer a:hover {
 .hauto {
   height: auto;
 }
-@font-face {
+/* @font-face {
   font-family: 'Material Icons';
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
-  src: url(typsnitt/Ttf/material.ttf) format('truetype');
+  src: local('Helvetica Neue'),url(typsnitt/Ttf/material.ttf) format('truetype');
   font-display: swap !important;
 
-}
+} */
 
 
 
@@ -10392,5 +10447,14 @@ site-header .header-inner .site-nav .menu-wrapper:before {
 }
 
 .barnkalas li {
-  list-style: inside;
+  list-style: none;
+  position: relative;
 }
+
+.barnkalas li:before {
+  font-family: 'Material Icons';
+  content: 'star';
+  color: #1acb44;
+  margin-right: 5px;
+}
+

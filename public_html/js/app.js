@@ -115,7 +115,7 @@ if ($(window).width() > 1096) {
 
 window.addEventListener('load', (event) => {
   window.scrollTo(0, 0);
-});
+}, {passive: true});
 
 // sport lists
 const formatAndDisplayMatches = (mainArray) => {
@@ -785,5 +785,5 @@ body.on('click', 'input', onFocus);
     }),
     n.addEventListener('orientationchange', function () {
       t(), s(), i();
-    });
+    }, {passive: true});
 })(jQuery, window, document);

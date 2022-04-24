@@ -478,7 +478,6 @@ Aktiviteter
 
     <script src="/plugins/bootstrap/js/bootstrap.min.js" defer></script>
 
-    <!-- <script src="/plugins/jquery.appear/jquery.appear.js"></script> -->
 
     <script src="/js/sweetalert2.min.js" defer></script>
     
