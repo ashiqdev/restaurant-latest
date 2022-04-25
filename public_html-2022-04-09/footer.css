@@ -8,10 +8,14 @@
   font-family: Cocogoose-Pro-Condensed-Regular;
   src: url(./typsnitt/Ttf/Cocogoose-Pro-Condensed-Regular.ttf)
     format('truetype');
+  font-display: swap !important;
+
 }
 @font-face {
   font-family: Cocogoose-Pro-Comp-Light;
   src: url(./typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf) format('truetype');
+  font-display: swap !important;
+
 }
 .thin {
   font-family: var(--font__light);

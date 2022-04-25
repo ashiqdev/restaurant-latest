@@ -567,6 +567,8 @@ body.on('keyup', 'input', goToNextInput);
 body.on('keydown', 'input', onKeyDown);
 body.on('click', 'input', onFocus);
 
+
+
 // header
 
 !(function (e, n, a) {
@@ -786,4 +788,6 @@ body.on('click', 'input', onFocus);
     n.addEventListener('orientationchange', function () {
       t(), s(), i();
     }, {passive: true});
+
+    
 })(jQuery, window, document);

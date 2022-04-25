@@ -22,6 +22,16 @@
 
 <link rel="stylesheet" href="/plugins/wow/css/animate.css" type="text/css" />
 
+<!-- <link rel="preconnect" href="../public_html/typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf">
+
+<link rel="preconnect" href="../public_html/typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf" crossorigin>
+
+<link href="../public_html/typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf?family=Cocogoose-Pro-Comp-Light&display=swap" rel="stylesheet"> -->
+
+
+
+
+
 
 
 <link
