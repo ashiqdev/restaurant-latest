@@ -51,7 +51,7 @@
 
                   <div
                     class="row advanced-pricing-table no-gutters wow pixFadeUp"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                   >
                     <div class="col-lg-5 mx-auto">
                       <div
@@ -240,7 +240,7 @@
 
           <a
             style="padding: 5px 25px"
-            data-wow-delay="0.2s"
+            data-wow-delay="0.1s"
             class="btn-grad wow pixFadeUp"
             href="/aktiviteter/"
           >

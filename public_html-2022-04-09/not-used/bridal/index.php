@@ -78,7 +78,7 @@
 
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -90,7 +90,7 @@
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                             BRIDAL PARTY
@@ -100,7 +100,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2; padding-top: 2rem"
                       >
                         Oavsett om ni är ett större eller mindre sällskap så kan
@@ -111,7 +111,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Mejla oss på Info@NordicSportsbar.ses eller ring på 031
@@ -121,7 +121,7 @@
 
                       <button
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         onclick="window.location.href='/activities/'"
                       >

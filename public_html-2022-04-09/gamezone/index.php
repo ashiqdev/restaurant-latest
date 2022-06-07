@@ -48,11 +48,11 @@
                 </div>
                 <!-- /.section-title -->
 
-                <p class="description wow pixFadeUp" data-wow-delay="0.2s">
+                <p class="description wow pixFadeUp" data-wow-delay="0.1s">
 				  När du är hos oss kan du närsomhelst hoppa över till spelavdelningen där du hittar bland annat:
                 </p>
 
-                <ul class="wow pixFadeUp" data-wow-delay="0.2s">
+                <ul class="wow pixFadeUp" data-wow-delay="0.1s">
                   <li>Basket</li>
                   <li>Airhockey</li>
                   <li>Boxboll</li>
@@ -60,7 +60,7 @@
                   <li>Gripklo</li>
                 </ul>
 
-                <p class="wow pixFadeUp" data-wow-delay="0.2s">
+                <p class="wow pixFadeUp" data-wow-delay="0.1s">
                   Nu har vi även <a href="/vr/">Playstation och VR</a>.
                 </p>
               </div>
@@ -69,7 +69,7 @@
             <!-- /.col-lg-7 -->
 
             <div class="col-lg-5">
-              <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
+              <div class="about-thumb wow pixFadeRight" data-wow-delay="0.1s">
                 <img
                   style="height: auto"
                   src="/bilder/game.jpg"

@@ -55,7 +55,7 @@
                     <div class="about-content" style="padding-right: 0">
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -160,7 +160,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Hjärtligt välkomna och må bästa spelare vinna!
@@ -168,7 +168,7 @@
 
                       <a
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         href="/aktiviteter/"
                       >

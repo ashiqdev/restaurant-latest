@@ -1,12 +1,5 @@
 <?php
-
-header('Access-Control-Allow-Origin: *'); 
-header("Access-Control-Allow-Credentials: true");
-header('Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS');
-header('Access-Control-Max-Age: 1000');
-header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token , Authorization');
-
-header("Content-Type: application/json; charset=UTF-8");
+header("Content-Type: application/json; charset=UTF-8");date_default_timezone_set('Europe/Stockholm');
 
 /* Define opening hours */
 $openingHours = array(
@@ -20,13 +13,11 @@ $openingHours = array(
 	"Sunday" 		=> array("12", "22"),
 
 );
-
-/* Connect to db */
-$pdo = new PDO('mysql:host=my108b.sqlserver.se;dbname=138261-femkamp', '138261_ha80530', 'testtest');
+/* Connect to db */require_once("/home/nordic/inc/connect.php");
 
 
 $stmt= $pdo->prepare("SELECT `name`, `sport`, `league`, `date` FROM `matches` WHERE `date` > ? ORDER BY `date` DESC");
-$stmt->execute(array(time()));
+$stmt->execute(array(time() - 7200));
 
 $games = $stmt->fetchAll();
 
@@ -56,12 +47,10 @@ foreach($games as $game){
 	if(
 		stristr($game['name'], "frölunda") ||
 		stristr($game['name'], "blåvitt") ||
-		stristr($game['name'], "ifk göteborg") ||
-		stristr($game['league'], "champions league")
-	){
-		
-		$important = true;
-		
+		stristr($game['name'], "ifk göteborg") ||				stristr($game['name'], "manchester united") ||				stristr($game['name'], "manchester city") ||				stristr($game['name'], "liverpool") ||
+		strtolower($game['league']) == "champions league"
+	){				$important = true;
+		if(stristr($game['league'], "woman") || stristr($game['league'], "women")){						$important = false;					}		
 	}
 	
 	if(

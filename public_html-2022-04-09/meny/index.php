@@ -48,7 +48,7 @@
               <div class="text-center">
                 <h3
                   class="d-inline-block mx-auto light"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                   style="
                     font-size: 3rem;
                     letter-spacing: 5px;
@@ -92,13 +92,13 @@
               <div class="menu-card" style="margin-top: 2rem">
                 <h3
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   CLASSIC BUFFALO
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Våra klassiska friterade kycklingvingar som är marinerade med
                   buffalosås.
@@ -108,7 +108,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">5 wings 99</div>
                   <div class="menu-information">10 wings 149</div>
@@ -118,12 +118,12 @@
             </div>
             <div class="offset-lg-1 col-lg-5 col-md-6 mobile-align">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   GARLIC & PARMESAN
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Kycklingvingar marinerade i en blandning av vitlök & parmesan
                   <br />
@@ -132,7 +132,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">5 wings 99</div>
                   <div class="menu-information">10 wings 149</div>
@@ -145,12 +145,12 @@
               <div class="text-lg-center">
                 <div class="d-inline-block mx-auto">
                   <div class="menu-card text-left">
-                    <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                    <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                       FLAMIN’ HOT
                     </h3>
                     <p
                       class="menu-description wow pixFadeDown"
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                     >
                       Vår extra starka version av buffalosåsen där
                       kycklingvingarna vilas i blandningen före
@@ -161,7 +161,7 @@
 
                     <div
                       class="menu-info-container wow pixFadeDown"
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                     >
                       <div class="menu-information">5 wings 99</div>
                       <div class="menu-information">10 wings 149</div>
@@ -193,12 +193,12 @@
 
             <div class="col-lg-6">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   HALLOUMI STICKS
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Friterade och honungstäckta halloumisticks serverade
                   <br />
@@ -207,7 +207,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">79</div>
                 </div>
@@ -216,12 +216,12 @@
 
             <div class="offset-lg-1 col-lg-5 col-md-6 mobile-align">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   SNACK BOWL
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vår skål med snacks som består av en härlig blandning av våra
                   förrätter. Kommer med aioli och chilimajonnäs vid sidan.
@@ -229,7 +229,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">LITEN 79</div>
                   <div class="menu-information">MELLAN 139</div>
@@ -240,12 +240,12 @@
 
             <div class="col-lg-6">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   GARLIC BREAD
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vitlöksbröd gjorda av vår alldeles egna smälta
                   <br />
@@ -254,7 +254,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">FOUR SLICES 39</div>
                   <div class="menu-information">EIGHT SLICES 69</div>
@@ -264,12 +264,12 @@
 
             <div class="offset-lg-1 col-lg-5 col-md-6 mobile-align">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   TACOS
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Romansallad, pico de gallo, picklad lök, chili eller
                   vegansk majonnäs,
@@ -279,7 +279,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">DOUBLE TACO 129</div>
                   <div class="menu-information">TRIPLE TACO 149</div>
@@ -290,7 +290,7 @@
             <div class="col-lg-6">
               <div
                 class="menu-img-container wow pixFadeRight mt-5"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
               >
                 <img
                   src="/bilder/menu/buffalo.webp"
@@ -304,12 +304,12 @@
 
             <div class="offset-lg-1 col-lg-5 col-md-6 mobile-align">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   NACHOS (GLUTENFRI)
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Hemgjorda nachochips baserade på majstortillas,
                   <br />
@@ -318,7 +318,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">ENKEL 69 </div>
                   <div class="menu-information">MED OST 89</div>
@@ -329,12 +329,12 @@
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   CHICKEN QUESADILLAS
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Grillad och tärnad kyckling med pico de gallo och ost
                   som är smält mellan
@@ -345,7 +345,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">139</div>
                 </div>
@@ -355,7 +355,7 @@
             <div class="col-lg-6">
               <div
                 class="menu-img-container wow pixFadeRight mt-5"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
               >
                 <img
                   src="/bilder/menu/nachos.webp"
@@ -369,12 +369,12 @@
 
             <div class="offset-lg-1 col-lg-5 col-md-6 mobile-align">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   OUMPH QUESADILLAS
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Ett utsökt alternativ till vår kyckling-quesadillas med
                   stekt oumph och vegansk ost istället.
@@ -384,7 +384,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">139</div>
                 </div>
@@ -392,7 +392,7 @@
 
               <div
                 class="menu-card wow pixFadeDown add-out"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
                 style="
                   background: #d1fae5;
                   padding: 1rem;
@@ -423,7 +423,7 @@
             <div class="col-lg-12">
               <p
                 class="text-center wow pixFadeDown thin text-center"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
                 style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
               >
                 Fråga gärna oss i personalen gällande allergier & justeringar
@@ -435,7 +435,7 @@
               <div class="text-center mt-180">
                 <h3
                   class="wow pixFadeDown d-inline-block mx-auto"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                   style="
                     font-size: 3rem;
                     letter-spacing: 5px;
@@ -455,7 +455,7 @@
             <div class="col-lg-12 text-center mb-5">
               <p
                 class="wow pixFadeDown d-inline-block mx-auto thin"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
                 style="
                   font-size: 1.3rem;
 
@@ -475,12 +475,12 @@
 
             <div class="col-lg-6">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   CLASSIC CHEDDAR BURGER
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vår klassiska burgare som kommer med smält cheddarost, picklad
                   saltgurka, krispig sallad,
@@ -491,19 +491,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">165</div>
                 </div>
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   JALAPEÑO & BACON BURGER
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   En burgare med hetta som kommer med jalapenos, cheddarost,
                   chilimajonnäs, silverlök,
@@ -513,19 +513,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">175</div>
                 </div>
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   THE ONE POUND BURGER
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Dubbel varianten av vår Cheddarburgare med två köttbitar
                   istället för en,
@@ -535,19 +535,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">225</div>
                 </div>
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   VEGAN CHEESEBURGER
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Sojabaserad Oumph burgare med vegansk majonnäs, picklad lök,
                   <br />
@@ -556,7 +556,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">165</div>
                 </div>
@@ -578,12 +578,12 @@
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   TRUFFLE BURGER
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vår cheddarburgare med en tvist av tryffel.
                   <br />
@@ -592,19 +592,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">175</div>
                 </div>
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   BBQ BURGER
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   En variant av vår cheddarburgare med bacon och
                   <br />
@@ -613,19 +613,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">175</div>
                 </div>
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   CRISPY CHICKEN BURGER
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vår krispiga kycklingfilé burgare med picklad slaw, majonnäs,
                   sallad och tomat. Kycklingen kan bytas ut mot halloumi.
@@ -633,7 +633,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">MILD 165 </div>
                   <div class="menu-information">STARK 165 </div>
@@ -645,7 +645,7 @@
             <div class="col-lg-12">
               <p
                 class="text-center wow pixFadeDown thin text-center"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
                 style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
               >
                 Alla burgare kan serveras med glutenfritt och laktosfritt bröd
@@ -655,7 +655,7 @@
             <div class="col-lg-6">
               <div
                 class="menu-img-container wow pixFadeRight mt-5"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
               >
                 <img
                   src="/bilder/menu/pound-burger.webp"
@@ -670,7 +670,7 @@
 
               <div
                 class="menu-img-container wow pixFadeRight mt-5"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
               >
                 <img
                   src="/bilder/menu/jalapeno.webp"
@@ -687,7 +687,7 @@
             <div class="offset-lg-1 col-lg-5 col-md-6 text-center mobile-align">
               <div
                 class="menu-card wow pixFadeDown add-out"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
                 style="
                   background: #d1fae5;
                   padding: 1rem;
@@ -744,7 +744,7 @@
             <div class="col-lg-12">
               <p
                 class="text-center wow pixFadeDown thin text-center"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
                 style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
               >
                 Fråga gärna oss i personalen gällande allergier & justeringar
@@ -758,7 +758,7 @@
             <div class="text-center mt-180">
               <h3
                 class="wow pixFadeDown d-inline-block mx-auto"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
                 style="
                   font-size: 3rem;
                   letter-spacing: 5px;
@@ -778,12 +778,12 @@
           <div class="row">
             <div class="col-lg-6">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   GRILLED STEAK
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Grillad Oxfilé eller Entrecôte med rödvinssås. Serverad
                   med vår hemlagade béarnaise,
@@ -793,7 +793,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">OXFILÉ (200g) 299</div>
                   <div class="menu-information">ENTRECÔTE (220g) 279</div>
@@ -801,12 +801,12 @@
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   PEPPER STEAK
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Grillad oxfilé med vår hemgjorda pepparsås. Serveras med
                   béarnaise,
@@ -816,19 +816,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">OXFILÉ (200g) 299</div>
                 </div>
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   BBQ RIBS
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Våra baby back ribs som är glaserad med din favoritsås.
                   <br />
@@ -837,7 +837,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">BBQ SAUCE 209 </div>
                   <div class="menu-information">BUFFALO SAUCE 209</div>
@@ -845,12 +845,12 @@
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   SUPER SAMPLER
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vår träbricka med BBQ-revben, BBQ-kyckling, pulled beef,
                   <br />
@@ -859,19 +859,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">249</div>
                 </div>
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   CAESAR SALAD
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Romansallad, tomat, hemgjorda krutonger, parmesanost,
                   <br />
@@ -880,7 +880,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information text-uppercase">
                     GRILLAD KYCKLING OCH BACON
@@ -891,12 +891,12 @@
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   CLASSIC FISH & CHIPS
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vår krispigt panerade torskfilé som är toppad med persilja och
                   <br />
@@ -905,19 +905,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">179</div>
                 </div>
               </div>
 			  
 			  <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   CLUB SANDWICH
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Grillad kycklingfilé, bacon, pico de gallo, romansallad mellan
                   två levainbröd med majonnäs och guacamole. <br />
@@ -926,7 +926,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">175</div>
                 </div>
@@ -936,12 +936,12 @@
 
             <div class="offset-lg-1 col-lg-5 col-md-6 mobile-align">
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   PASTA ALFREDO
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Pasta med krämig vitlökssmak, tomater,
                   <br />
@@ -950,7 +950,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information text-uppercase">
                     Kyckling 209 
@@ -962,7 +962,7 @@
 
               <div
                 class="menu-img-container wow pixFadeRight mt-5"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
               >
                 <img
                   src="/bilder/menu/pasta.webp"
@@ -972,12 +972,12 @@
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   STEAK & BLUE CHEESE
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   En fräsch sallad med färska cocktailtomater,
                   isbergssallad, bönor, persilja, picklad
@@ -987,19 +987,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">249</div>
                 </div>
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   BBQ CHICKEN
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vår grillade och glaserade BBQ-kyckling som serveras med
                   <br />
@@ -1008,19 +1008,19 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">219</div>
                 </div>
               </div>
 
               <div class="menu-card">
-                <h3 class="menu-title wow pixFade" data-wow-delay="0.2s">
+                <h3 class="menu-title wow pixFade" data-wow-delay="0.1s">
                   SWEET SALMON
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Grillad lax som serveras med örtbaserad smör, tomatsallad<br />
 				  picklad lök och sötpotatismos.
@@ -1028,7 +1028,7 @@
 
                 <div
                   class="menu-info-container wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <div class="menu-information">175</div>
                 </div>
@@ -1040,7 +1040,7 @@
             <div class="col-lg-6 box">
               <div
                 class="menu-img-container wow pixFadeRight mt-5"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
               >
                 <img
                   src="/bilder/menu/steak-blue-cheese.webp"
@@ -1053,7 +1053,7 @@
             <div class="col-lg-6 box">
               <div
                 class="menu-img-container wow pixFadeRight mt-5"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
               >
                 <img
                   src="/bilder/menu/super-sampler.webp"
@@ -1067,7 +1067,7 @@
           <div class="col-lg-12">
             <p
               class="text-center wow pixFadeDown thin text-center"
-              data-wow-delay="0.2s"
+              data-wow-delay="0.1s"
               style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
             >
               Fråga gärna oss i personalen gällande allergier & justeringar
@@ -1079,7 +1079,7 @@
             <div class="text-center mt-180">
               <h3
                 class="wow pixFadeDown d-inline-block mx-auto"
-                data-wow-delay="0.2s"
+                data-wow-delay="0.1s"
                 style="
                   font-size: 3rem;
                   letter-spacing: 5px;
@@ -1097,13 +1097,13 @@
               <div class="menu-card" style="margin-top: 2rem">
                 <h3
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   CLASSIC SUNDAE
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Fyra stora skopor av glass som är toppat med marshmallows,
                   <br />
@@ -1112,7 +1112,7 @@
 
                 <p
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                   style="margin-top: -10px"
                 >
                   69
@@ -1120,7 +1120,7 @@
 
                 <h3
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <span
                     style="margin-top: -20px; font-size: 50px"
@@ -1134,13 +1134,13 @@
               <div class="menu-card" style="margin-top: 2rem">
                 <h3
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   MEXICAN FRIED ICE CREAM
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Friterad glassboll täckt med digestive, toppat med
                   karamellsås,
@@ -1150,7 +1150,7 @@
 
                 <p
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                   style="margin-top: -10px"
                 >
                   109
@@ -1158,7 +1158,7 @@
 
                 <h3
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <span
                     style="margin-top: -20px; font-size: 50px"
@@ -1172,13 +1172,13 @@
               <div class="menu-card" style="margin-top: 2rem">
                 <h3
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   APPLE CRUMBLE & VANILLA
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vår hemgjorda äpple smulade paj med färska skivade äpplen,
                   <br />
@@ -1187,7 +1187,7 @@
 
                 <p
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                   style="margin-top: -10px"
                 >
                   89
@@ -1195,7 +1195,7 @@
 
                 <h3
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   <span
                     style="margin-top: -20px; font-size: 50px"
@@ -1209,13 +1209,13 @@
               <div class="menu-card" style="margin-top: 2rem">
                 <h3
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   BAKED BROWNIE
                 </h3>
                 <p
                   class="menu-description wow pixFadeDown"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                 >
                   Vår försiktigt värmda brownie toppat med krossade nötter
                   <br />
@@ -1224,7 +1224,7 @@
 
                 <p
                   class="menu-title wow pixFadeDown thin"
-                  data-wow-delay="0.2s"
+                  data-wow-delay="0.1s"
                   style="margin-top: -10px"
                 >
                   89
@@ -1236,7 +1236,7 @@
           <div class="col-lg-12">
             <p
               class="text-center wow pixFadeDown thin text-center"
-              data-wow-delay="0.2s"
+              data-wow-delay="0.1s"
               style="padding-top: 5rem; font-size: 20px; line-height: 1.5"
             >
               Fråga gärna oss i personalen gällande allergier & justeringar

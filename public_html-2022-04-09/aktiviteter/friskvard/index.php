@@ -55,7 +55,7 @@
                     <div class="about-content" style="padding-right: 0">
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -67,7 +67,7 @@
                         <div class="section-title absoluteText">
                         <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                           Friskvård
@@ -87,7 +87,7 @@
 
                       <a
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         href="/aktiviteter/"
                       >

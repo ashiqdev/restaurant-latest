@@ -111,7 +111,7 @@
 
                       <a
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         href="/activities/"
                       >

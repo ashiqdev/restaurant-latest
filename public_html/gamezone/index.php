@@ -48,19 +48,45 @@
                 </div>
                 <!-- /.section-title -->
 
-                <p class="description wow pixFadeUp" data-wow-delay="0.2s">
+                <p class="description wow pixFadeUp" data-wow-delay="0.1s">
 				  När du är hos oss kan du närsomhelst hoppa över till spelavdelningen där du hittar bland annat:
                 </p>
 
-                <ul class="wow pixFadeUp gamezone-list" data-wow-delay="0.2s">
-                  <li>Basket</li>
-                  <li>Airhockey</li>
-                  <li>Boxboll</li>
-                  <li>Sparkboll</li>
-                  <li>Gripklo</li>
+                <ul class="wow pixFadeUp gamezone-list" data-wow-delay="0.1s">
+                  <li>
+                    <i class="material-icons" data-icon="workspace_premium"></i>
+                    <span>Basket</span>
+                  </li>
+                  
+                  <li>
+                  <i class="material-icons" data-icon="workspace_premium"></i>
+
+                    <span>Airhockey</span>
+                  </li>
+                  
+                  <li>
+                  <i class="material-icons" data-icon="workspace_premium"></i>
+
+                    <span>Boxboll</span>
+                  </li>
+                  
+                  
+                  <li>
+                  <i class="material-icons" data-icon="workspace_premium"></i>
+                    <span>
+                    Sparkboll
+                    </span>
+                    
+                  </li>
+                  
+                  <li>
+                  <i class="material-icons" data-icon="workspace_premium"></i>
+
+                    <span>Gripklo</span>
+                  </li>
                 </ul>
 
-                <p class="wow pixFadeUp" data-wow-delay="0.2s">
+                <p class="wow pixFadeUp" data-wow-delay="0.1s">
                   Nu har vi även <a href="/vr/">Playstation och VR</a>.
                 </p>
               </div>
@@ -69,7 +95,7 @@
             <!-- /.col-lg-7 -->
 
             <div class="col-lg-5">
-              <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
+              <div class="about-thumb wow pixFadeRight" data-wow-delay="0.1s">
                 <img
                   class="hauto"
                   src="/bilder/gamezone-tinified.webp"

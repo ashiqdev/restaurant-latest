@@ -1,3 +1,9 @@
+<?php
+
+$canonical = $_SERVER['REQUEST_URI'];
+$canonical = explode("?", $canonical)[0];
+
+?>
 <meta charset="UTF-8" />
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -10,37 +16,15 @@
 <meta name="description" content="<?php echo $metaDescription; ?>" />
 <?php } ?>
 
+<?php if($metaKeywords){ ?>
+<meta name="keywords" content="<?php echo $metaKeywords; ?>"/>
+<?php } ?>
+
 <meta name="author" content="Nordic Sportsbar" />
+<link rel="canonical" href="https://nordicsportsbar.se<?php echo $canonical; ?>" />
 
 <!-- Dependecy Styles -->
-
-
-<!-- 
-<link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css?v=<?php echo time(); ?>"> -->
-
-
-
 <link rel="stylesheet" href="/plugins/wow/css/animate.css" type="text/css" />
-
-<!-- <link rel="preconnect" href="../public_html/typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf">
-
-<link rel="preconnect" href="../public_html/typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf" crossorigin>
-
-<link href="../public_html/typsnitt/Ttf/Cocogoose-Pro-Comp-Light.ttf?family=Cocogoose-Pro-Comp-Light&display=swap" rel="stylesheet"> -->
-
-
-
-
-
-
-
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.2.2/sweetalert2.min.css"
-  integrity="sha512-OkYLbkJ4DB7ewvcpNLF9DSFmhdmxFXQ1Cs+XyjMsMMC94LynFJaA9cPXOokugkmZo6O6lwZg+V5dwQMH4S5/3g=="
-  crossorigin="anonymous"
-  referrerpolicy="no-referrer"
-/>
 
 <link
   rel="apple-touch-icon"
@@ -73,6 +57,8 @@
   color="#5bbad5"
 />
 
+<link rel="preload" as="image" href="/bilder/bowling-lanes-hd.webp" />
+
 <script src="/plugins/wow/js/wow.min.js"></script>
 
 
@@ -80,21 +66,21 @@
 
 <meta name="theme-color" content="#ffffff" />
 
-<!-- meta image -->
-<meta property="og:title" content="Nordic Sportsbar | Bowling, Shuffleboard och mer!" />
+<!-- META -->
+<meta property="og:title" content="<?php echo $headerTitle; ?>" />
 <meta property="og:type" content="article" />
-<meta
-  property="og:description"
-  content="Hos oss hittar du bland annat bowling, shuffleboard, gamezone, vår restaurang & bar och mycket mer - hjärtligt välkomna!"
-/>
+
+<?php if($metaDescription){ ?>
+<meta property="og:description" content="<?php echo $metaDescription; ?>" />
+<?php } else{ ?>
+<meta property="og:description" content="Hos oss hittar du bland annat bowling, shuffleboard, gamezone, vår restaurang & bar och mycket mer - hjärtligt välkomna!" />
+<?php } ?>
+
 <meta
   property="og:image"
   content="https://nordicsportsbar.se/bilder/nordic.webp"
 />
 
 <!-- Site StyleSheet -->
-
-<!-- <link rel="stylesheet" href="/style.css?v=1.0.1" type="text/css" /> -->
-
-<link rel="stylesheet" href="/style.css?v=<?php echo time(); ?>">
+<link rel="stylesheet" href="/style.css?v=11489998.1549163388.14239484.19">
 

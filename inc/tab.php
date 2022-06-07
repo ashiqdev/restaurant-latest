@@ -1,5 +1,6 @@
 <div
-  class="offset-lg-1 col-lg-3 d-none d-md-block hide-me"
+  class="offset-lg-1 col-lg-3 d-none d-md-block hide-me wow pixFadeDown"
+  data-wow-delay="0.1s"
   style="border-left: 1px solid gray; height: 685px"
 >
   <ul class="nav threed-tabs" role="tablist" style="display: block">

@@ -83,7 +83,7 @@
                     <div class="about-content" style="padding-right: 0">
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -95,7 +95,7 @@
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                             FRÖLUNDA PAKETET
@@ -105,7 +105,7 @@
 
                       <h2
                         class="title wow pixFadeDown thin"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="
                           font-size: 1.5rem;
                           padding-top: 3rem;
@@ -124,7 +124,7 @@
                               wow
                               pixFadeUp
                             "
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                           >
                             <div class="centering">
                               <div class="pixsass-icon-box-content">
@@ -140,7 +140,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                       Gäller endast under Frölundamatcher, varmt välkomna!
@@ -148,7 +148,7 @@
 
                       <a
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         href="/activities/"
                       >

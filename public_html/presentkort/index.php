@@ -55,21 +55,12 @@
 
                 <div
                   class="wow pixFadeDown pt-5"
-                  data-wow-delay="0.7s"
+               
                   
                 >
-                  <!-- <form id="checkGiftcard">
-                    <div class="balance-form-inner">
-                      <input
-                        type="text"
-                        placeholder="Skriv in ditt presentkortsnummer här"
-                        id="giftcardNumber"
-                      />
-                      <button type="submit">Kontrollera</button>
-                    </div>
-                  </form> -->
+                
 
-                  <div id="wrapper-container">
+                  <div class="wrapper-container">
                     <div id="dialog">
                   
                       <form id="checkGiftcard" name="myForm">

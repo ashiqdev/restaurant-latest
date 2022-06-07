@@ -11,14 +11,14 @@
         <a href="/" class="logo">
           <img
           width="1600" height="900"
-            src="/bilder/logo/logo-grey.png"
+            src="/bilder/logo.svg"
             alt="site logo"
             class="main-logo"
           />
 
           <img
           width="1600" height="900"
-            src="/bilder/logo/logo-grey.png"
+            src="/bilder/logo.svg"
             alt="site logo"
             class="sticky-logo disnone"
             
@@ -58,14 +58,14 @@
           <a href="/" class="logo">
             <img
             width="1600" height="900"
-              src="/bilder/logo/logo-grey.png"
+              src="/bilder/logo/logo.svg"
               alt="site logo"
               class="main-logo"
             />
 
             <img
             width="1600" height="900"
-              src="/bilder/logo/logo-grey.png"
+              src="/bilder/logo.svg"
               alt="site logo"
               class="sticky-logo disblock"
               
@@ -78,8 +78,12 @@
             <li data-localize="menu.home">
               <a class="<?=($page == 'home') ? 'nav-active' : ''; ?>" href="/"
                 >
-                <span class="straight"><span  class="material-icons mobi-btn">home</span> Hem</span>
-                
+           
+
+                <span class="straight">
+                <i class="material-icons" data-icon="home"></i>
+                Home
+               </span>
                 </a
               >
             </li>
@@ -88,7 +92,16 @@
               <a
                 class="<?=($page == 'sport') ? 'nav-active' : ''; ?>"
                 href="/sport/"
-                ><span class="straight"><span class="material-icons mobi-btn">sports_soccer</span> Sport</span></a
+                >
+                
+               
+
+                <span class="straight">
+                  <i class="material-icons" data-icon="sports_soccer"></i>
+                  Sport
+                 </span>
+                
+                </a
               >
             </li>
 
@@ -96,7 +109,15 @@
               <a
                 class="<?=($page == 'meny') ? 'nav-active' : ''; ?>"
                 href="/meny/"
-                ><span class="straight"><span class="material-icons mobi-btn">restaurant_menu</span> Meny</span></a
+                >
+          
+
+                <span class="straight">
+                  <i class="material-icons" data-icon="restaurant_menu"></i>
+                  Meny
+                 </span>
+                
+                </a
               >
             </li>
 
@@ -104,7 +125,15 @@
               <a
                 class="<?=($page == 'activity') ? 'nav-active' : ''; ?>"
                 href="/aktiviteter/"
-                ><span class="straight"><span  class="material-icons mobi-btn">games</span> Aktiviteter</span></a
+                >
+           
+
+                <span class="straight">
+                  <i class="material-icons" data-icon="games"></i>
+                  Aktiviteter
+                 </span>
+                
+                </a
               >
             </li>
 
@@ -112,7 +141,17 @@
               <a
                 class="<?=($page == 'presentkort') ? 'nav-active' : ''; ?>"
                 href="/presentkort/"
-                ><span class="straight"><span  class="material-icons mobi-btn">card_giftcard</span> Presentkort</span></a
+                >
+                
+               
+
+                <span class="straight">
+                  <i class="material-icons" data-icon="card_giftcard"></i>
+                   Presentkort
+                 </span>
+                
+                
+                </a
               >
             </li>
           </ul>

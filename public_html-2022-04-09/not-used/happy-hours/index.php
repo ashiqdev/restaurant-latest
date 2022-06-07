@@ -88,7 +88,7 @@
 
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -100,7 +100,7 @@
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                             HAPPY <span style="color: #2d9b87">HO</span>URS
@@ -110,7 +110,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2; padding-top: 2rem"
                       >
                       Slappna av på eftermiddagen med våra happy hours som varar mellan 14:00 - 18:00 med schyssta priser på våra berömda chicken wings, nacho chips, öl, vin, bubbel och alkoholfritt.
@@ -128,7 +128,7 @@
                                   font-weight: 500;
                                 "
                                 class="title wow pixFadeUp"
-                                data-wow-delay="0.2s"
+                                data-wow-delay="0.1s"
                               >
                                 There are delicious menus
                               </h2>
@@ -143,7 +143,7 @@
                                 wow
                                 pixFadeUp
                               "
-                              data-wow-delay="0.2s"
+                              data-wow-delay="0.1s"
                             >
                               <div class="col-lg-4" style="height: 375px">
                                 <div
@@ -230,7 +230,7 @@
 
                       <button
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         onclick="window.location.href='/activities/'"
                       >

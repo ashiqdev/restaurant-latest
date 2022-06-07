@@ -89,7 +89,7 @@
 
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -104,7 +104,7 @@
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                             CHILDREN'S PARTY
@@ -119,14 +119,14 @@
                           padding-top: 2rem;
                         "
                         class="wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                       >
                         TA CHANSEN ATT GE ERA BARN ETT ROLIGT KALAS!
                       </h3>
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Från 6 år: burgare med fries, popcorn, dryck, glass och
@@ -135,7 +135,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         (1 timme bowling = 55 min)
@@ -144,14 +144,14 @@
                       <h3
                         style="padding-top: 0rem; font-weight: 400"
                         class="wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                       >
                         179 kr / person
                       </h3>
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Kalasen går att boka lördagar och söndagar kl. 12.00 -
@@ -160,7 +160,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Vill ni ha skräddarsydda paket så hör av er till oss så
@@ -169,7 +169,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Avbokning skall ske minst 2 dagar innan bokat kalas. Om
@@ -178,7 +178,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Boka på 031 - 19 19 19,
@@ -189,7 +189,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                       Varmt välkomna
@@ -197,7 +197,7 @@
 
                       <button
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         onclick="window.location.href='/activities/'"
                       >

@@ -70,52 +70,57 @@ $('#btn-cta').click(function () {
 
 // youtube
 
-if ($(window).width() > 1096) {
-  var tag = document.createElement('script');
-  tag.src = 'https://www.youtube.com/iframe_api';
+// var tag = document.createElement('script');
+//   tag.src = 'https://www.youtube.com/iframe_api';
 
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+//   var firstScriptTag = document.getElementsByTagName('script')[0];
+//   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-  var player;
+//   var player;
 
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player', {
-      width: '100%',
-      videoId: 'Zs0bsagDzw8',
-      host: 'https://www.youtube.com',
-      origin: window.location.href,
-      playerVars: {
-        autoplay: 1,
-        playsinline: 1,
-        playlist: 'Zs0bsagDzw8',
-        frameborder: 0,
-        controls: 0,
-        showinfo: 0,
-        allowfullscreen: 1,
-      },
-      events: {
-        onReady: onPlayerReady,
-        onStateChange: onPlayerStateChange,
-      },
-    });
-  }
+//   function onYouTubeIframeAPIReady() {
+//     player = new YT.Player('player', {
+//       width: '100%',
+//       videoId: 'Zs0bsagDzw8',
+//       host: 'https://www.youtube.com',
+//       origin: window.location.href,
+//       playerVars: {
+//         autoplay: 1,
+//         playsinline: 1,
+//         playlist: 'Zs0bsagDzw8',
+//         frameborder: 0,
+//         controls: 0,
+//         showinfo: 0,
+//         allowfullscreen: 1,
+//       },
+//       events: {
+//         onReady: onPlayerReady,
+//         onStateChange: onPlayerStateChange,
+//       },
+//     });
+//   }
 
-  function onPlayerReady(event) {
-    event.target.mute();
-    event.target.playVideo();
-  }
+//   function onPlayerReady(event) {
+//     event.target.mute();
+//     event.target.playVideo();
+//   }
 
-  function onPlayerStateChange(event) {
-    if (event.data === YT.PlayerState.ENDED) {
-      player.playVideo();
-    }
-  }
-}
+//   function onPlayerStateChange(event) {
+//     if (event.data === YT.PlayerState.ENDED) {
+//       player.playVideo();
+//     }
+//   }
 
 window.addEventListener('load', (event) => {
   window.scrollTo(0, 0);
-}, {passive: true});
+});
+
+$(window).on('load', function () {
+  // $('#cover').hide();
+  document.getElementsByTagName("body")[0].style.opacity = "1";
+  document.getElementById('footer').style.display = 'block';
+  
+});
 
 // sport lists
 const formatAndDisplayMatches = (mainArray) => {
@@ -304,7 +309,7 @@ const formatAndDisplayMatches = (mainArray) => {
                     : game.sport === 'Snooker'
                     ? '/bilder/snoker-updated.svg'
                     : game.sport === 'Basket'
-                    ? '/bilder/basket-updated.png'
+                    ? '/bilder/basket-updated.webp'
                     : game.sport === 'Tennis'
                     ? '/bilder/tennis.svg'
                     : game.sport === 'Golf'
@@ -431,11 +436,19 @@ function onSubmitHandler() {
         }
 
         if (statusArray.success == 'activated') {
+          var friskvard = '';
+
+          if (statusArray.friskvard == 1) {
+            friskvard = ' och gäller för friskvård.';
+          }
+
           Swal.fire({
             icon: 'success',
             title: 'Information',
-            text: 'Saldot på ditt kort är ' + statusArray.value + ':-',
-            footer: 'Ditt presentkort slutar fungera ' + statusArray.expiryDate,
+            text:
+              'Saldot på ditt kort är ' + statusArray.value + ':-' + friskvard,
+            footer:
+              'Ditt presentkort är giltigt till ' + statusArray.expiryDate,
           });
 
           clearFields();
@@ -459,61 +472,60 @@ function onSubmitHandler() {
 
 $('#checkGiftcard').submit(onSubmitHandler);
 
-var body = $('body');
-
-
-
+var checkGiftcard = $('#checkGiftcard');
 
 function goToNextInput(e) {
-  
   var key = e.which,
     t = $(e.target),
     sib = t.next('input');
-    prev = t.prev('input');
+  prev = t.prev('input');
 
   console.log({ key });
 
-
-
   // handle backspace
   if (key == 8) {
-    if(e.target.classList.contains('latest') && (e.target.value !== '')) {
+    if (e.target.classList.contains('latest') && e.target.value !== '') {
       console.log('what');
       e.target.value = '';
       $('.latest').select().focus();
-      
-      
+
       return;
-    } else if(e.target.classList.contains('second-latest') && (e.target.value !== '')) {
+    } else if (
+      e.target.classList.contains('second-latest') &&
+      e.target.value !== ''
+    ) {
       e.target.value = '';
       $('.second-latest').select().focus();
       return;
-      
-    } else if(e.target.classList.contains('third-latest') && (e.target.value !== '')) {
+    } else if (
+      e.target.classList.contains('third-latest') &&
+      e.target.value !== ''
+    ) {
       e.target.value = '';
       $('.third-latest').select().focus();
       return;
-    } else if(e.target.classList.contains('fourth-latest') && (e.target.value !== '')) {
+    } else if (
+      e.target.classList.contains('fourth-latest') &&
+      e.target.value !== ''
+    ) {
       e.target.value = '';
       $('.fourth-latest').select().focus();
       return;
-    }  else if(e.target.classList.contains('fifth-latest') && (e.target.value !== '')) {
+    } else if (
+      e.target.classList.contains('fifth-latest') &&
+      e.target.value !== ''
+    ) {
       e.target.value = '';
       $('.fifth-latest').select().focus();
       return;
     }
-   
-    
+
     prev.select().focus();
     prev.val('');
-
-   
   }
 
   if (key != 9 && (key < 48 || key > 57) && (key < 96 || key > 105)) {
     if (e.shiftkey) return false;
-
-    
 
     if (key == 13) {
       onSubmitHandler();
@@ -529,18 +541,16 @@ function goToNextInput(e) {
   }
 
   if (!sib || !sib.length) {
-    sib = body.find('input').eq(0);
+    sib = checkGiftcard.find('input').eq(0);
   }
 
   if (e.currentTarget.value.length >= 1) {
-    
-   console.log({classList: e.currentTarget.classList});
-   if(e.target.classList.contains('latest')) {
-     $('.latest').select().focus();
-    
-     return;
-     
-   }
+    console.log({ classList: e.currentTarget.classList });
+    if (e.target.classList.contains('latest')) {
+      $('.latest').focus();
+
+      return;
+    }
 
     sib.select().focus();
   }
@@ -563,11 +573,119 @@ function onFocus(e) {
   $(e.target).select();
 }
 
-body.on('keyup', 'input', goToNextInput);
-body.on('keydown', 'input', onKeyDown);
-body.on('click', 'input', onFocus);
+function onlyNumeric(e) {
+  var key = e.which;
 
+  if (key === 8) return true;
 
+  if (
+    key === 9 ||
+    key === 190 ||
+    (key >= 48 && key <= 57) ||
+    (key >= 96 && key <= 106)
+  ) {
+    console.log({ valid: key });
+
+    return true;
+  }
+
+  e.preventDefault();
+  return false;
+}
+
+checkGiftcard.on('keyup', 'input', goToNextInput);
+checkGiftcard.on('keydown', 'input', onKeyDown);
+checkGiftcard.on('click', 'input', onFocus);
+
+var giftCardContainer = $('.card-point');
+
+giftCardContainer.on('keyup', 'input', goToNextInput);
+giftCardContainer.on('keydown', 'input', onKeyDown);
+// giftCardContainer.on('click', 'input', onFocus);
+
+var giftCardAmount = $('.total-amount');
+
+giftCardAmount.on('keydown', 'input', onlyNumeric);
+
+$('.input-number').on('keyup change', function () {
+  var card_number = '';
+
+  $('.input-number').each(function () {
+    card_number += $(this).val() + ' ';
+  });
+
+  $('.gift-card-box .number').html(card_number);
+});
+
+$('#gift-card-holder').on('keyup change', function () {
+  $t = $(this);
+  $('.gift-card-box .card-holder div').html($t.val());
+});
+
+$('#gift-card-amount').on('keyup change', function () {
+  $t = $(this);
+  $('.gift-card-box .card-amount-total div').html($t.val());
+});
+
+// blogs displayMatches
+
+fetch('/js/blogs.json')
+  .then((res) => res.json())
+  .then((data) => {
+    console.log(data);
+    displayBlogs(data);
+  });
+
+function displayBlogs(blogs) {
+  const container = document.querySelector('.nordic-blog-container');
+  blogs.map((blog) => {
+    const html = `
+    <div class="col-12 blog-item mb-5">
+    <article class="blog-card">
+      <div class="blog-card__background">
+        <div class="card__background--wrapper">
+          <div
+            class="card__background--main"
+            style="
+              background-image: url(${blog.photo});
+            "
+          >
+            <div class="card__background--layer"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="blog-card__head">
+        <span class="date__box">
+          <span class="date__day">${blog.day}</span>
+          <span class="date__month">${blog.month}</span>
+        </span>
+      </div>
+
+      <div class="blog-card__info">
+        <h5>${blog.title}</h5>
+        <div>
+          <p class="icon-link mr-3"
+            >
+            <i class="material-icons" data-icon="edit_note"></i>
+            <span>Admin</span>
+            </p>
+
+        </div>
+        <p>
+          ${blog.desc}
+        </p>
+        <button href="#" class="blog-btn blog-btn--with-icon"
+          >READ MORE
+          </button>
+      </div>
+    </article>
+  </div>
+    `;
+
+    container.insertAdjacentHTML('beforeend', html);
+  });
+}
 
 // header
 
@@ -785,9 +903,67 @@ body.on('click', 'input', onFocus);
     e(n).on('load resize', function () {
       s(), i(), t();
     }),
-    n.addEventListener('orientationchange', function () {
-      t(), s(), i();
-    }, {passive: true});
-
-    
+    n.addEventListener(
+      'orientationchange',
+      function () {
+        t(), s(), i();
+      },
+      { passive: true }
+    );
 })(jQuery, window, document);
+
+// function appHeight() {
+//   const doc = document.documentElement
+//   doc.style.setProperty('--vh', (window.innerHeight*.01) + 'px');
+// }
+
+// window.addEventListener('resize', appHeight);
+// appHeight();
+
+// First we get the viewport height and we multiple it by 1% to get a value for a vh unit
+// let vh = window.innerHeight * 0.01;
+// Then we set the value in the --vh custom property to the root of the document
+// document.documentElement.style.setProperty('--vh', `${vh}px`);
+
+const appHeight = () => {
+  const doc = document.documentElement;
+  doc.style.setProperty('--app-height', `${window.innerHeight}px`);
+};
+// window.addEventListener('resize', appHeight);
+appHeight();
+
+//  change video based on screen resize
+var video = document.getElementsByTagName('video')[0];
+var sources = video.getElementsByTagName('source');
+
+function displayVideo(url) {
+  sources[0].src = url;
+  video.load();
+}
+
+// change video on load
+if ($(window).width() <= 500) {
+  console.log('hello');
+  displayVideo('/mobile.mp4');
+} else if ($(window).width() <= 1060) {
+  // use another video
+  displayVideo('/mosque.mp4');
+}
+
+else{
+	
+	displayVideo('/nordic.webm');
+	
+}
+
+// $(window).on('resize', function () {
+//   if ($(window).width() < 500) {
+
+//     displayVideo('https://nordic.dnscheck.io/mobile.mp4');
+//   } else if ($(window).width() < 1060) {
+
+//     displayVideo('https://nordic.dnscheck.io/mosque.mp4');
+//   } else {
+//     displayVideo('https://nordic.dnscheck.io/nordic.mp4');
+//   }
+// });

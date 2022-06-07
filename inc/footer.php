@@ -26,13 +26,18 @@
 
                 <div class="widget footer-widget">
 
-                  <h3 class="widget-title vmiddle"><span class="material-icons">place</span> Nordic Sportsbar</h3>
+                  <h3 class="widget-title vmiddle">
+                    
+                    <i class="material-icons" data-icon="place"></i> 
+                    <span>Nordic Sportsbar</span>
+                  
+                  </h3>
 
 
 
                 <a href="https://www.google.com/maps?ll=57.678611,12.003327&z=17&t=m&hl=en-US&gl=US&mapclient=embed&cid=14144854708632173907" target="_blank"
                 class="map-wrapper" >
-                  <img width="1600" height="900" src="/bilder/map.webp" alt="map">
+                  <img loading="lazy" width="1600" height="900" src="/bilder/map.webp" alt="map">
                 </a>
 
 
@@ -75,11 +80,13 @@
 
                 <div class="widget footer-widget">
 
-                  <h3 class="widget-title"><span class="material-icons vmiddle">
 
-info
-
-</span> Address &amp; Kontaktuppgifter</h3>
+                <h3 class="widget-title vmiddle">
+                    
+                  <i class="material-icons" data-icon="info"></i> 
+                  <span>Address &amp; Kontaktuppgifter</span>
+                
+                </h3>
 
 
 
@@ -91,11 +98,36 @@ info
 
 
 
-                  <li><span class="material-icons vmiddle">location_on</span> Mölndalsvägen 95, 412 63 Göteborg</li>
+                  <li class="footer-icon">
+                    
 
-                    <li><span class="material-icons vmiddle">call</span> <a class="disinline" href="tel:004631191919">031 - 19 19 19</a></li>
+                    <i class="material-icons" data-icon="location_on"></i> 
+                    <span>Mölndalsvägen 95, 412 63 Göteborg</span>
+                  
+                  </li>
 
-                    <li><span class="material-icons vmiddle">email </span> <a class="disinline" href="mailto:Info@NordicSportsbar.se">Info@NordicSportsbar.se</a></li>
+
+
+                    <li class="footer-icon">
+                      
+                     
+
+                      <i class="material-icons" data-icon="call"></i> 
+                     
+                      <span>
+                        <a class="disinline" href="tel:004631191919">031 - 19 19 19</a>
+                      </span>
+                    
+                    </li>
+
+                    <li class="footer-icon">
+                      <i class="material-icons" data-icon="email"></i> 
+                     
+                      <span>
+                        <a class="disinline" href="mailto:Info@NordicSportsbar.se">Info@NordicSportsbar.se</a>
+                      </span>
+                    
+                    </li>
 
                   </ul>
 
@@ -144,11 +176,16 @@ info
 
                   <div class="unit three-fifths">
 
-                  <h3 class="widget-title vmiddle"><span class="material-icons">
+                
 
-schedule
+                  <h3 class="widget-title vmiddle">
+                    
+                    <i class="material-icons" data-icon="schedule"></i> 
+                    <span>Öppettider</span>
+                  
+                  </h3>
 
-</span> Öppettider</h3>
+                  
 
                     <!-- TABLE -->
 
@@ -377,9 +414,9 @@ Aktiviteter
 
             <button class="close" data-dismiss="modal">
 
-              <span class="material-icons dark">
-                clear
-                </span>
+              <i class="material-icons dark" data-icon="clear">
+              
+                </i>
 
             </button>
 
@@ -401,11 +438,11 @@ Aktiviteter
 
             >
 
-              <span id="menu-icon" class="material-icons">
+              <i id="menu-icon" class="material-icons" data-icon="wifi">
 
-                wifi
+                
 
-              </span>
+              </i>
 
 
 
@@ -429,7 +466,7 @@ Aktiviteter
 
             >
 
-              <span class="material-icons"> call </span>
+              <i class="material-icons" data-icon="call"></i>
 
 
 
@@ -453,7 +490,7 @@ Aktiviteter
 
             >
 
-              <span class="material-icons"> mail </span>
+              <i class="material-icons" data-icon="mail"></i>
 
 
 
@@ -478,8 +515,8 @@ Aktiviteter
 
     <script src="/plugins/bootstrap/js/bootstrap.min.js" defer></script>
 
-
     <script src="/js/sweetalert2.min.js" defer></script>
     
     <script src="/js/app.js?v=<?php echo time(); ?>" defer></script>
+
   

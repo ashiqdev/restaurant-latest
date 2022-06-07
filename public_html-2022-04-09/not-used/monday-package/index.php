@@ -88,7 +88,7 @@
 
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -100,7 +100,7 @@
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                             MONDAY PACKAGE
@@ -111,14 +111,14 @@
                       <h3
                         style="padding-top: 2rem; font-weight: 400"
                         class="wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                       >
                         Starta veckan på bästa möjliga sätt hos oss.
                       </h3>
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Vid beställning av en valfri varmrätt per person bjuder
@@ -128,7 +128,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Så ta med familj och vänner in för en mysig eftermiddag
@@ -137,7 +137,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                         Paketet gäller ej på röda dagar.
@@ -145,7 +145,7 @@
 
                       <button
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         onclick="window.location.href='/activities/'"
                       >

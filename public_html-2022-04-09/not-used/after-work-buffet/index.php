@@ -54,7 +54,7 @@
 
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -66,7 +66,7 @@
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                             AFTER WORK BUFFÉ
@@ -76,7 +76,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2; padding-top: 2rem"
                       >
 						OBS: AW-buffén är dessvärre pausad tillsvidare p.g.a. den rådande situationen.
@@ -90,7 +90,7 @@
 
                       <h3
                         class="wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="font-size: 20px"
                       >
                         AFTER WORK-BUFFÉ 89:-
@@ -98,7 +98,7 @@
 
                       <ul
                         class="wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="margin-bottom: 2rem"
                       >
                         <li>Plocka så mycket du orkar!</li>
@@ -106,7 +106,7 @@
 
                       <h3
                         class="wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="font-size: 20px"
                       >
                         DRYCK (39:-)
@@ -114,7 +114,7 @@
 
                       <ul
                         class="wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="margin-bottom: 2rem"
                       >
                         <li>Carlsberg Hof (40 cl)</li>
@@ -124,7 +124,7 @@
 
                       <h3
                         class="wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="font-size: 20px"
                       >
                         ALKOHOLFRITT (29:-)
@@ -132,7 +132,7 @@
 
                       <ul
                         class="wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="margin-bottom: 3rem"
                       >
                         <li>
@@ -148,7 +148,7 @@
 
                       <a
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         href="/activities/"
                       >

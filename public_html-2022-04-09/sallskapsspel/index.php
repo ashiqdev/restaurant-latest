@@ -47,7 +47,7 @@
                 </div>
                 <!-- /.section-title -->
 
-                <p class="description wow pixFadeUp" data-wow-delay="0.2s">
+                <p class="description wow pixFadeUp" data-wow-delay="0.1s">
                   Roa er med sällskapsspel när ni är hos oss!
                   <br />
 				  Fråga oss i personalen så kommer vi till bordet med spelen och självklart kostar det ingenting!<br /><br />
@@ -70,7 +70,7 @@
             <!-- /.col-lg-7 -->
 
             <div class="col-lg-5">
-              <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
+              <div class="about-thumb wow pixFadeRight" data-wow-delay="0.1s">
                 <img
                   style="height: auto"
                   src="/bilder/board.jpg"

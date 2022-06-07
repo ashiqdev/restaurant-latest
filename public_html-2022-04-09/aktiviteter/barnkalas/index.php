@@ -57,7 +57,7 @@
 
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -69,7 +69,7 @@
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                             Barnkalas
@@ -80,14 +80,14 @@
                       <h3
                         style="padding-top: 2rem"
                         class="wow pixFadeDown thin"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                       >
                       Ta chansen och ge barnen ett roligt kalas!
                       </h3>
 
                       <p
                         class="description wow pixFadeDown thin"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
 						Från 6 år:
@@ -104,7 +104,7 @@
 						
 						                      <p
                         class="description wow pixFadeDown thin"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
 
@@ -114,7 +114,7 @@
 
 						                      <p
                         class="description wow pixFadeDown thin"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
 					  
@@ -124,7 +124,7 @@
 					  
                       <p
                         class="description wow pixFadeDown thin"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
 						Avbokning skall ske minst 2 dagar innan bokat kalas. Om avbokning sker senare debiteras en avgift på 500 kr.
@@ -132,7 +132,7 @@
 					  
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                       Varmt välkomna att boka på: 031 - 19 19 19 eller mejl Info@NordicSportsbar.se
@@ -140,7 +140,7 @@
 
                       <a
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         href="/aktiviteter/"
                       >

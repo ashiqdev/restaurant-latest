@@ -11,6 +11,9 @@
 
   </head>
   <body>
+    <!-- <div id="cover"></div> -->
+
+    
     <div
       class="main_content front-page general-style"
       
@@ -32,8 +35,8 @@
       <div class="color-overlay"></div>
       
       <!-- large screen -->
-      <div id="video" class="video-container"> 
-     
+      <!-- <div id="video" class="video-container-large"> 
+        
         <div class="bg-video ytplayer" id="player"></div>
    
 
@@ -49,14 +52,13 @@
           </button>
         </div>
          
-        
-        <!-- text over video -->
+      
          <div
          class="banner-info thin banner-info-color"
        >
 
          <div class="thin f_size_22">
-           <i class="fas fa-map-marker-alt"></i>
+           <i class="material-icons" data-icon="location_on"></i>
            <span class="thin"
              >Mölndalsvägen
              <span class="numeric thin">95</span></span
@@ -64,19 +66,19 @@
          </div>
   
          <div class="f_size_22">
-           <i class="fas fa-location-arrow"></i>
+           <i class="material-icons" data-icon="near_me"></i>
            <span class="thin">412 63 Göteborg</span>
          </div>
          <div class="f_size_22">
            <a href="tel:004631191919" style="color:#e5e7eb;">
-			   <i class="fas fa-phone-alt"></i>
+			   <i class="material-icons" data-icon="call"></i>
 			   <span class="thin">031 - 19 19 19</span>
 		   </a>
          </div>
   
          <div class="f_size_22">
            <a href="mailto:Info@NordicSportsbar.se" style="color:#e5e7eb;">
-			<i class="fas fa-inbox"></i>
+			<i class="material-icons" data-icon="email"></i>
 			<span class="thin">Info@NordicSportsbar.se</span>
 		   </a>
          </div>
@@ -84,7 +86,7 @@
       
         
           
-        </div> 
+        </div>  -->
 
       
     
@@ -93,124 +95,101 @@
      
 
      <!-- smaller screen -->
-     <section
-     class="banner banner-one new-challange smaller-screens ps"
+
+     <div class="video-container">
+      <video class="bg-video" loop="" muted="" autoplay="" playsinline="">
+        <source />
+      </video>
+
+      <div class="btn-wrap">
+
+        <button
+        data-toggle="modal"
+        data-target="#myModal"
+        data-backdrop="static"
+        data-keyboard="false"
+        class="btn banner-info-grad">Boka Nu
+          <div class="btn2"></div>
+        </button>
+      </div>
+       
     
-   >
-     <div class="row">
-       <div>
-         <div
-         
-           class="new-challange"
+       <div
+       class="banner-info thin banner-info-color"
+     >
+
+       <div class="thin f_size_22 banner-address">
+         <i class="material-icons" data-icon="location_on"></i>
+         <span class="thin"
+           >Mölndalsvägen
+           <span class="numeric thin">95</span></span
          >
-           <div class="container">
-             <div class="banner-content-wrap">
-               <div class="row align-items-center">
-                 <div class="col-lg-12">
-                   <div class="banner-content">
-                       <div id="text">
-
-                         <h1  class="banner-title text-center"
-                         
-                          
-                         >
-                         <p class="words">Vi</p>
-                         <p class="words">har nu bytt namn till</p>
-                         <p class="words">Nordic Sportsbar</p>
-                         </h1>
-                       </div>
-
-
-                       <div class="new-wrapper">
-
-                     
-
-                     <div
-                       class="description"
-                       
-                     >
-                       <div
-                         class="banner-info-small"
-                         
-                       >
-                         <div class="mobile-anim f_size_22">
-                           <i class="fas fa-map-marker-alt"></i>
-                           <span class="thin"
-                             >Mölndalsvägen
-                             <span class="numeric thin">95</span></span
-                           >
-                         </div>
-
-                         <div class="mb-1 f_size_22">
-                           <i class="fas fa-location-arrow"></i>
-                           <span class="thin">412 63 Göteborg</span>
-                         </div>
-                         
-                         <div class="f_size_22 mb-1">
-                           <i class="fas fa-phone-alt"></i>
-                           <span class="thin">031 - 19 19 19</span>
-                         </div>
-            
-            
-                         <div class="f_size_22">
-                           <i class="fas fa-inbox"></i>
-                           <span class="thin">Info@NordicSportsbar.se</span>
-                         </div>
-                       </div>
-                     </div>
-
-                     
-         
-                     <div
-                       class="banner-button-container"
-                       
-                     >
-                       <a
-                         href="/meny"
-                         class="btn-grad"
-                       >
-                         <span class="material-icons mobi-btn">restaurant_menu</span> Meny
-                       </a>
-
-                       <a
-                         class="btn-grad"
-                         href="/sport"
-                       >
-                         <span class="material-icons mobi-btn">sports_soccer</span> Sport
-                       </a>
-
-                       <a
-                         href="/aktiviteter/"
-                         
-                         class="btn-grad"
-                       >
-                         <span  class="material-icons mobi-btn">games</span> Aktiviteter
-                       </a>
-                     </div>
-
-
-         
-                   </div>
-                   <!-- /.banner-content -->
-                 </div>
-                 <!-- /.col-lg-6 -->
-               </div>
-               <!-- /.row -->
-             </div>
-             </div>
-             <!-- /.banner-content-wrap -->
-           </div>
-         </div>
        </div>
-     </div>
-   </section>
 
+       <div class="f_size_22 banner-address">
+         <i class="material-icons" data-icon="near_me"></i>
+         <span class="thin">412 63 Göteborg</span>
+       </div>
+       
+       <div class="f_size_22 banner-address">
+         <a href="tel:004631191919" style="color:#e5e7eb;">
+       <i class="material-icons" data-icon="call"></i>
+       <span class="thin">031 - 19 19 19</span>
+     </a>
+       </div>
 
+       <div class="f_size_22 banner-address">
+         <a href="mailto:Info@NordicSportsbar.se" style="color:#e5e7eb;">
+    <i class="material-icons" data-icon="email"></i>
+    <span class="thin">Info@NordicSportsbar.se</span>
+     </a>
+       </div>
+      </div>
       
       
+    </div>
+    
 
 
-<!--===================================-->
+     <!--===================================-->
+      <!--=         Banner (mobile-only)      =-->
+      <!--===================================-->
+      <section class="banner-info-mobile">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="thin f_size_22 banner-address">
+              <i class="material-icons" data-icon="location_on"></i>
+              <span class="thin"
+                >Mölndalsvägen
+                <span class="numeric thin">95</span></span
+              >
+            </div>
+     
+            <div class="f_size_22 banner-address">
+              <i class="material-icons" data-icon="near_me"></i>
+              <span class="thin">412 63 Göteborg</span>
+            </div>
+            
+            <div class="f_size_22 banner-address">
+              <a href="tel:004631191919" style="color:#e5e7eb;">
+            <i class="material-icons" data-icon="call"></i>
+            <span class="thin">031 - 19 19 19</span>
+          </a>
+            </div>
+     
+            <div class="f_size_22 banner-address">
+              <a href="mailto:Info@NordicSportsbar.se" style="color:#e5e7eb;">
+         <i class="material-icons" data-icon="email"></i>
+         <span class="thin">Info@NordicSportsbar.se</span>
+          </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+
+
+     <!--===================================-->
       <!--=         Bowling Design         =-->
       <!--===================================-->
       <section class="genera-informes">
@@ -225,7 +204,7 @@
 					            width="1600" height="900"
                       src="/bilder/bowling-800-450.webp"
                       class="explicit"
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="bowling-lanes"
                     />
                   </a>
@@ -255,7 +234,7 @@
                     href="/aktiviteter/bowling/"
                     
                     class="pix-btn btn-grad-white fixed-btn primary-clr"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                     
                   >
                     Läs mer
@@ -303,7 +282,7 @@
                     href="/aktiviteter/shuffleboard/"
                     
                     class="pix-btn btn-grad-white fixed-btn primary-coloring"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                   >
                     Läs mer
                   </a>
@@ -321,7 +300,7 @@
                       width="1600" height="900"
                       src="/bilder/aktiviteter/shuffleboard.webp"
                       class="img-fluid"
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="shuffleboard"
                     />
                   </a>
@@ -349,7 +328,7 @@
                       width="1600" height="900"
                       src="/bilder/gamezone-tinified.webp"
                       class=""
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="gamezone"
                     />
                   </a>
@@ -376,7 +355,7 @@
                     href="/gamezone/"
                     class="pix-btn btn-grad btn-grad-white fixed-btn primary-clr"
                     
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                   >
                     Läs mer
                   </a>
@@ -417,7 +396,7 @@
                     href="/vr/"
                    
                     class="pix-btn btn-grad-white fixed-btn primary-coloring"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                   >
                     Läs mer
                   </a>
@@ -435,7 +414,7 @@
                      width="1600" height="900"
                       src="/bilder/virtual-reality.webp"
                       class="img-fluid"
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="virtual reality"
                     />
                   </a>
@@ -464,8 +443,9 @@
                       width="1600" height="900"
                       src="/bilder/board-games.webp"
                       class=""
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="board games"
+					  loading="lazy"
                     />
                   </a>
                 </div>
@@ -490,7 +470,7 @@
                   <a
                     href="/sallskapsspel/"
                     class="pix-btn btn-grad btn-grad-white fixed-btn primary-clr"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                     
                   >
                     Läs mer

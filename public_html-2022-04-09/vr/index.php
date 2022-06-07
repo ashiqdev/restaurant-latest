@@ -53,7 +53,7 @@
                 </div>
                 <!-- /.section-title -->
 
-                <p class="description wow pixFadeUp" data-wow-delay="0.2s">
+                <p class="description wow pixFadeUp" data-wow-delay="0.1s">
                   Hos oss kan ni nu spela Playstation och VR med era egna spel.
                   Boka era platser och ta med vännerna för en spelkväll där ni
                   har hela vårt eventrum för er själva.<br /><br />
@@ -67,7 +67,7 @@
             <!-- /.col-lg-7 -->
 
             <div class="col-lg-5">
-              <div class="about-thumb wow pixFadeRight" data-wow-delay="0.2s">
+              <div class="about-thumb wow pixFadeRight" data-wow-delay="0.1s">
                 <img
                   style="height: auto"
                   src="/bilder/play.webp"

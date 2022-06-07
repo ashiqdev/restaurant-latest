@@ -83,7 +83,7 @@
                     <div class="about-content" style="padding-right: 0">
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -95,7 +95,7 @@
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                             CONFERENCE
@@ -105,7 +105,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2; padding-top: 2rem"
                       >
                       Välkomna att boka era konferenser hos oss.
@@ -113,7 +113,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                       Här får ni full tillgång med både ljud och bild i en hel avdelning, där ni kan framföra era presentationer på våra stora 70 tumsskärm och spela upp media på 6 TV-apparater samtidigt (vi hjälper självklart till med tekniken). Varför inte även börja med lite tilltugg och rund av med bowling och shuffleboard?
@@ -123,7 +123,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                       För olika paket och priser vänligen mejla in till oss eller ring 031 - 19 19 19. Nyfiken på hur det ser ut? Kika in på vår 360-gradersvy.
@@ -133,7 +133,7 @@
 
                       <button
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         onclick="window.location.href='/activities/'"
                       >

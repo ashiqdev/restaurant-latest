@@ -252,7 +252,7 @@
                     <img
                       src="/bilder/bowling-lanes-hd.jpg"
                       class=""
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="bowling-lanes"
                     />
                   </a>
@@ -282,7 +282,7 @@
                     href="/aktiviteter/bowling/"
                     
                     class="pix-btn btn-grad-white fixed-btn"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                     style="color: #02aab0"
                   >
                     Läs mer
@@ -335,7 +335,7 @@
                     href="/aktiviteter/shuffleboard/"
                     style="color: #02aab0; background-color: #fff"
                     class="pix-btn btn-grad-white fixed-btn"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                   >
                     Läs mer
                   </a>
@@ -352,7 +352,7 @@
                     <img
                       src="/bilder/aktiviteter/shuffleboard.webp"
                       class="img-fluid"
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="shuffleboard"
                     />
                   </a>
@@ -379,7 +379,7 @@
                     <img
                       src="/bilder/gamezone.jpg"
                       class=""
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="gamezone"
                     />
                   </a>
@@ -408,7 +408,7 @@
                     href="/gamezone/"
                     class="pix-btn btn-grad btn-grad-white fixed-btn"
                     style="color: #02aab0"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                   >
                     Läs mer
                   </a>
@@ -456,7 +456,7 @@
                     href="/vr/"
                     style="color: #02aab0; background-color: #fff"
                     class="pix-btn btn-grad-white fixed-btn"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                   >
                     Läs mer
                   </a>
@@ -473,7 +473,7 @@
                     <img
                       src="/bilder/virtual-reality.jpg"
                       class="img-fluid"
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="virtual reality"
                     />
                   </a>
@@ -501,7 +501,7 @@
                     <img
                       src="/bilder/board-games.jpg"
                       class=""
-                      data-wow-delay="0.2s"
+                      data-wow-delay="0.1s"
                       alt="board games"
                     />
                   </a>
@@ -529,7 +529,7 @@
                   <a
                     href="/sallskapsspel/"
                     class="pix-btn btn-grad btn-grad-white fixed-btn"
-                    data-wow-delay="0.2s"
+                    data-wow-delay="0.1s"
                     style="color:#02aab0"
                   >
                     Läs mer

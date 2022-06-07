@@ -56,7 +56,7 @@
 
                       <div
                         class="sec-image-container wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="background: black; overflow: hidden"
                       >
                         <img
@@ -68,7 +68,7 @@
                         <div class="section-title absoluteText">
                           <h2
                             class="title wow pixFadeDown"
-                            data-wow-delay="0.2s"
+                            data-wow-delay="0.1s"
                             style="font-size: 3.5rem; color: #fff"
                           >
                             Stora sällskap
@@ -79,14 +79,14 @@
                       <h3
                         style="padding-top: 2rem"
                         class="wow pixFadeDown thin"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                       >
                       FÖR ER SOM ÄR MER ÄN 30 PERSONER REKOMMENDERAR VI VÅR CLASSIC BUFFÉ
                       </h3>
 
                       <p
                         class="description wow pixFadeDown thin"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                       Vår klassiska buffé bland annat Burgare, Chicken Wings, Ribs, Snacks, Sallader mm och även en dryckesbiljett (gäller för fatöl, husets viner, cider, non-alco).
@@ -94,7 +94,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2; font-size: 1.1rem"
                       >
                         <span style="color: #2d9b87; font-weight: bold"
@@ -105,14 +105,14 @@
                       <h3
                         style="padding-top: 0rem"
                         class="wow pixFadeDown thin"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                       >
                       HAMBURGARBUFFÉ
                       </h3>
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                       Vår hamburgarbuffé med caesarsallad, fries, snacks, mm.
@@ -121,7 +121,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2; font-size: 1.1rem"
                       >
                         <span style="color: #02aab0; font-weight: bold"
@@ -131,7 +131,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                       Möjlighet att lägga till bowling eller shuffleboard för 59:- per person.
@@ -139,7 +139,7 @@
 
                       <p
                         class="description wow pixFadeDown"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         style="line-height: 2"
                       >
                       Varmt välkomna att boka på: 031 - 19 19 19 eller mejl Info@NordicSportsbar.se
@@ -147,7 +147,7 @@
 
                       <a
                         style="padding: 5px 25px"
-                        data-wow-delay="0.2s"
+                        data-wow-delay="0.1s"
                         class="btn-grad wow pixFadeUp"
                         href="/aktiviteter/"
                       >
